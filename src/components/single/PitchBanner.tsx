@@ -9,7 +9,7 @@ export default function PitchBanner() {
   if (!shop.isPitch) return null;
 
   return (
-    <div className="bg-amber-500 text-stone-950 py-2 sm:py-2.5 px-3 sm:px-4 shadow-sm sticky top-0 z-50 border-b border-amber-600/30">
+    <div className="bg-amber-500 text-stone-950 py-2 sm:py-2.5 px-3 sm:px-4 shadow-xs border-b border-amber-600/30 relative z-30">
       <div className="max-w-6xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-2 sm:gap-3 text-center sm:text-left">
         <div className="flex items-center gap-2 min-w-0">
           <span className="w-5 h-5 sm:w-6 sm:h-6 rounded-md bg-stone-900 text-amber-300 flex items-center justify-center shrink-0">

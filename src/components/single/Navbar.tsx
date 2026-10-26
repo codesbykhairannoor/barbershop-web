@@ -36,8 +36,8 @@ export default function Navbar({ onBookClick }: NavbarProps) {
         </div>
       </aside>
 
-      {/* Main Header */}
-      <header className="sticky top-0 z-40 bg-white/95 backdrop-blur-md border-b border-stone-200/80 transition-all">
+      {/* Main Header (Sticky) */}
+      <header className="sticky top-0 z-40 bg-white/95 backdrop-blur-md border-b border-stone-200/80 shadow-[0_2px_10px_-2px_rgba(0,0,0,0.06)] transition-all">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 py-2.5 sm:py-3.5 flex items-center justify-between">
           {/* Logo with Dynamic Shop Name */}
           <a href="#" className="flex items-center gap-2.5 sm:gap-3 group max-w-[70%] sm:max-w-none">
