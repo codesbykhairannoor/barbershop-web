@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 64" width="340" height="64" fill="none">
+  <!-- Embedded Icon Mark -->
+  <g transform="translate(4, 4) scale(0.4375)">
+    <rect width="128" height="128" rx="28" fill="#1c1917" stroke="#b47820" stroke-width="2" />
+    <path d="M64 64 L90 28 C92 25 95 24 97 26 C99 28 98 31 95 34 L71 67 L53 91 C50 95 46 98 41 98 C34 98 29 93 29 86 C29 79 34 74 41 74 C44 74 48 76 51 79 Z" fill="#fafaf9" />
+    <circle cx="41" cy="86" r="6" fill="#1c1917" stroke="#fafaf9" stroke-width="1.5" />
+    <path d="M64 64 L38 28 C36 25 33 24 31 26 C29 28 30 31 33 34 L57 67 L75 91 C78 95 82 98 87 98 C94 98 99 93 99 86 C99 79 94 74 87 74 C84 74 80 76 77 79 Z" fill="#f59e0b" />
+    <circle cx="87" cy="86" r="6" fill="#1c1917" stroke="#f59e0b" stroke-width="1.5" />
+    <circle cx="64" cy="64" r="6.5" fill="#f59e0b" stroke="#fef3c7" stroke-width="1" />
+    <circle cx="64" cy="64" r="3.5" fill="#1c1917" />
+  </g>
+
+  <!-- Typography -->
+  <text x="74" y="32" font-family="'Plus Jakarta Sans', sans-serif" font-weight="800" font-size="20" fill="#1c1917" letter-spacing="-0.5">THE MODERN CUT</text>
+  <text x="74" y="48" font-family="'Plus Jakarta Sans', sans-serif" font-weight="600" font-size="10.5" fill="#b47820" letter-spacing="2">BARBER &amp; GROOMING ATELIER</text>
+</svg>

@@ -1,6 +1,6 @@
 "use client";
 
-import { Scissors } from "lucide-react";
+import Image from "next/image";
 import { useBarbershop } from "@/context/BarbershopContext";
 
 export default function Footer() {
@@ -13,8 +13,14 @@ export default function Footer() {
           {/* Col 1 */}
           <div className="md:col-span-2">
             <div className="flex items-center gap-2.5 mb-3">
-              <div className="w-8 h-8 rounded-lg bg-stone-900 text-stone-100 flex items-center justify-center">
-                <Scissors className="w-4 h-4 text-amber-300" />
+              <div className="w-8 h-8 rounded-lg overflow-hidden shadow-xs flex items-center justify-center shrink-0">
+                <Image
+                  src="/logo.svg"
+                  alt="Logo Barbershop"
+                  width={32}
+                  height={32}
+                  className="w-full h-full object-contain"
+                />
               </div>
               <span className="font-display font-bold text-base text-stone-900">
                 {shop.name}

@@ -1,7 +1,8 @@
 "use client";
 
 import { useState } from "react";
-import { Scissors, Phone, Calendar, Menu, X, Clock } from "lucide-react";
+import Image from "next/image";
+import { Phone, Calendar, Menu, X, Clock } from "lucide-react";
 import { useBarbershop } from "@/context/BarbershopContext";
 
 interface NavbarProps {
@@ -41,8 +42,15 @@ export default function Navbar({ onBookClick }: NavbarProps) {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 py-2.5 sm:py-3.5 flex items-center justify-between">
           {/* Logo with Dynamic Shop Name */}
           <a href="#" className="flex items-center gap-2.5 sm:gap-3 group max-w-[70%] sm:max-w-none">
-            <div className="w-9 h-9 sm:w-10 sm:h-10 rounded-xl bg-stone-900 text-stone-100 flex items-center justify-center group-hover:bg-[#b47820] transition-colors shadow-xs shrink-0">
-              <Scissors className="w-4 h-4 sm:w-5 sm:h-5 text-amber-300" />
+            <div className="w-9 h-9 sm:w-10 sm:h-10 rounded-xl overflow-hidden shadow-xs shrink-0 flex items-center justify-center group-hover:scale-105 transition-transform">
+              <Image
+                src="/logo.svg"
+                alt="Logo Barbershop"
+                width={40}
+                height={40}
+                className="w-full h-full object-contain"
+                priority
+              />
             </div>
             <div className="flex flex-col min-w-0">
               <span className="font-display font-bold text-sm sm:text-base text-stone-900 leading-tight truncate">
