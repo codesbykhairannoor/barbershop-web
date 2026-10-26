@@ -36,102 +36,116 @@ const defaultShopData: BarbershopData = {
 
 const BarbershopContext = createContext<BarbershopData>(defaultShopData);
 
-function BarbershopContextProvider({ children }: { children: React.ReactNode }) {
+function QueryParamListener({
+  onUpdate,
+}: {
+  onUpdate: (params: URLSearchParams) => void;
+}) {
   const searchParams = useSearchParams();
+  useEffect(() => {
+    onUpdate(searchParams);
+  }, [searchParams, onUpdate]);
+  return null;
+}
+
+export function BarbershopProvider({
+  children,
+  initialData,
+}: {
+  children: React.ReactNode;
+  initialData?: BarbershopData;
+}) {
+  const [shop, setShop] = useState<BarbershopData>(initialData || defaultShopData);
   const pathname = usePathname();
   const params = useParams();
 
-  const [shop, setShop] = useState<BarbershopData>(defaultShopData);
+  const handleQueryUpdate = React.useCallback(
+    (searchParams: URLSearchParams) => {
+      const routeSlug =
+        (params?.slug as string) ||
+        (pathname?.startsWith("/p/") ? pathname.split("/p/")[1]?.split("/")[0] : null);
 
-  useEffect(() => {
-    // 1. Check slug from /p/[slug] or ?p=[slug] or ?id=[id]
-    const routeSlug =
-      (params?.slug as string) ||
-      (pathname?.startsWith("/p/") ? pathname.split("/p/")[1]?.split("/")[0] : null);
+      const pParam = searchParams.get("p") || searchParams.get("slug") || searchParams.get("id");
+      const nameParam = searchParams.get("name") || searchParams.get("shop");
+      const cityParam = searchParams.get("city") || searchParams.get("kota");
+      const ratingParam = searchParams.get("rating");
+      const reviewsParam = searchParams.get("reviews") || searchParams.get("ulasan");
+      const addressParam = searchParams.get("address") || searchParams.get("alamat");
+      const phoneParam = searchParams.get("phone") || searchParams.get("wa");
+      const myWaParam = searchParams.get("mywa") || DEFAULT_MY_WA;
 
-    const pParam = searchParams.get("p") || searchParams.get("slug") || searchParams.get("id");
-    const nameParam = searchParams.get("name") || searchParams.get("shop");
-    const cityParam = searchParams.get("city") || searchParams.get("kota");
-    const ratingParam = searchParams.get("rating");
-    const reviewsParam = searchParams.get("reviews") || searchParams.get("ulasan");
-    const addressParam = searchParams.get("address") || searchParams.get("alamat");
-    const phoneParam = searchParams.get("phone") || searchParams.get("wa");
-    const myWaParam = searchParams.get("mywa") || DEFAULT_MY_WA;
+      const lookupKey = routeSlug || pParam;
 
-    const lookupKey = routeSlug || pParam;
+      let matched: any = null;
+      if (lookupKey) {
+        const decoded = decodeURIComponent(lookupKey).toLowerCase().trim();
+        matched = barbershopsData.find(
+          (b) =>
+            b.slug.toLowerCase() === decoded ||
+            String(b.id) === decoded ||
+            b.name.toLowerCase().includes(decoded)
+        );
+      }
 
-    let matched: any = null;
-    if (lookupKey) {
-      const decoded = decodeURIComponent(lookupKey).toLowerCase().trim();
-      matched = barbershopsData.find(
-        (b) =>
-          b.slug.toLowerCase() === decoded ||
-          String(b.id) === decoded ||
-          b.name.toLowerCase().includes(decoded)
+      const isPitchActive = Boolean(
+        initialData?.isPitch ||
+        matched ||
+        lookupKey ||
+        nameParam ||
+        searchParams.get("pitch") === "true"
       );
-    }
 
-    const isPitchActive = Boolean(
-      matched ||
-      lookupKey ||
-      nameParam ||
-      searchParams.get("pitch") === "true"
-    );
+      const base = initialData || defaultShopData;
+      const resolvedName = nameParam || matched?.name || base.name;
+      const resolvedCity = cityParam || matched?.city_orig || base.cityOrig;
+      const resolvedRating = ratingParam || matched?.rating || base.rating;
+      const resolvedReviews = reviewsParam || matched?.reviews || base.reviews;
+      const resolvedAddress = addressParam || matched?.address || base.address;
+      const resolvedPhone = phoneParam || matched?.phone || base.phone;
 
-    const resolvedName = nameParam || matched?.name || defaultShopData.name;
-    const resolvedCity = cityParam || matched?.city_orig || defaultShopData.cityOrig;
-    const resolvedRating = ratingParam || matched?.rating || defaultShopData.rating;
-    const resolvedReviews = reviewsParam || matched?.reviews || defaultShopData.reviews;
-    const resolvedAddress = addressParam || matched?.address || defaultShopData.address;
-    const resolvedPhone = phoneParam || matched?.phone || defaultShopData.phone;
+      const cleanPhone = (resolvedPhone || "").toString().replace(/[^0-9]/g, "");
+      const formattedWa = cleanPhone.startsWith("0")
+        ? "62" + cleanPhone.slice(1)
+        : cleanPhone.startsWith("8")
+        ? "62" + cleanPhone
+        : cleanPhone;
 
-    const cleanPhone = resolvedPhone.replace(/[^0-9]/g, "");
-    const formattedWa = cleanPhone.startsWith("0")
-      ? "62" + cleanPhone.slice(1)
-      : cleanPhone.startsWith("8")
-      ? "62" + cleanPhone
-      : cleanPhone;
+      const waUrl = formattedWa ? `https://wa.me/${formattedWa}` : defaultShopData.whatsappUrl;
 
-    const waUrl = formattedWa ? `https://wa.me/${formattedWa}` : defaultShopData.whatsappUrl;
+      const currentUrl = typeof window !== "undefined" ? window.location.href : "";
+      const claimMsg = encodeURIComponent(
+        `Halo Mas, saya pemilik/manajemen dari *${resolvedName}* (${resolvedCity}). Saya sudah lihat preview websitenya di ${currentUrl}. Saya tertarik untuk pasang website ini ke domain resmi kami.`
+      );
+      const claimUrl = `https://wa.me/${myWaParam}?text=${claimMsg}`;
 
-    const claimMsg = encodeURIComponent(
-      `Halo Mas, saya pemilik/manajemen dari *${resolvedName}* (${resolvedCity}). Saya sudah lihat preview websitenya di ${window.location.href}. Saya tertarik untuk pasang website ini ke domain resmi kami.`
-    );
-    const claimUrl = `https://wa.me/${myWaParam}?text=${claimMsg}`;
+      setShop({
+        name: resolvedName,
+        city: resolvedCity === "Bandung" ? "Bandung" : "South Jakarta",
+        cityOrig: resolvedCity,
+        rating: resolvedRating,
+        reviews: resolvedReviews,
+        address: resolvedAddress,
+        phone: resolvedPhone,
+        whatsappUrl: waUrl,
+        myWa: myWaParam,
+        isPitch: isPitchActive,
+        claimUrl: claimUrl,
+      });
 
-    const updated: BarbershopData = {
-      name: resolvedName,
-      city: resolvedCity === "Bandung" ? "Bandung" : "South Jakarta",
-      cityOrig: resolvedCity,
-      rating: resolvedRating,
-      reviews: resolvedReviews,
-      address: resolvedAddress,
-      phone: resolvedPhone,
-      whatsappUrl: waUrl,
-      myWa: myWaParam,
-      isPitch: isPitchActive,
-      claimUrl: claimUrl,
-    };
-
-    setShop(updated);
-
-    if (isPitchActive && typeof document !== "undefined") {
-      document.title = `${resolvedName} | Official Haircut & Grooming Studio`;
-    }
-  }, [pathname, params, searchParams]);
+      if (isPitchActive && typeof document !== "undefined") {
+        document.title = `${resolvedName} | Official Haircut & Grooming Studio`;
+      }
+    },
+    [params, pathname, initialData]
+  );
 
   return (
     <BarbershopContext.Provider value={shop}>
+      <Suspense fallback={null}>
+        <QueryParamListener onUpdate={handleQueryUpdate} />
+      </Suspense>
       {children}
     </BarbershopContext.Provider>
-  );
-}
-
-export function BarbershopProvider({ children }: { children: React.ReactNode }) {
-  return (
-    <Suspense fallback={<>{children}</>}>
-      <BarbershopContextProvider>{children}</BarbershopContextProvider>
-    </Suspense>
   );
 }
 

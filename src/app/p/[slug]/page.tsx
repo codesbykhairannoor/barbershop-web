@@ -1,8 +1,9 @@
-import Home from "@/app/page";
+import { BarbershopApp } from "@/app/page";
+import { BarbershopProvider, BarbershopData } from "@/context/BarbershopContext";
 import barbershopsData from "@/data/barbershops.json";
 
 export async function generateStaticParams() {
-  // Pre-render the top 100 pitch leads
+  // Pre-render top 100 pitch leads
   return barbershopsData.slice(0, 100).map((b) => ({
     slug: b.slug,
   }));
@@ -37,6 +38,50 @@ export async function generateMetadata({
   };
 }
 
-export default function LeadPitchPage() {
-  return <Home />;
+export default async function LeadPitchPage({
+  params,
+}: {
+  params: Promise<{ slug: string }>;
+}) {
+  const resolved = await params;
+  const slug = resolved?.slug?.toLowerCase();
+  const shop = barbershopsData.find(
+    (b) => b.slug.toLowerCase() === slug || String(b.id) === slug
+  );
+
+  let initialShop: BarbershopData | undefined = undefined;
+
+  if (shop) {
+    const cleanPhone = (shop.phone || "").replace(/[^0-9]/g, "");
+    const formattedWa = cleanPhone.startsWith("0")
+      ? "62" + cleanPhone.slice(1)
+      : cleanPhone.startsWith("8")
+      ? "62" + cleanPhone
+      : cleanPhone;
+
+    const defaultMyWa = "6285718203535";
+    const claimMsg = encodeURIComponent(
+      `Halo Mas, saya pemilik/manajemen dari *${shop.name}* (${shop.city_orig}). Saya sudah lihat preview websitenya di https://barbershop-web-demo.vercel.app/p/${shop.slug}. Saya tertarik untuk pasang website ini ke domain resmi kami.`
+    );
+
+    initialShop = {
+      name: shop.name,
+      city: shop.city_orig === "Bandung" ? "Bandung" : "South Jakarta",
+      cityOrig: shop.city_orig,
+      rating: shop.rating,
+      reviews: shop.reviews,
+      address: shop.address,
+      phone: shop.phone || "0812-1480-7192",
+      whatsappUrl: formattedWa ? `https://wa.me/${formattedWa}` : "https://wa.me/6281214807192",
+      myWa: defaultMyWa,
+      isPitch: true,
+      claimUrl: `https://wa.me/${defaultMyWa}?text=${claimMsg}`,
+    };
+  }
+
+  return (
+    <BarbershopProvider initialData={initialShop}>
+      <BarbershopApp />
+    </BarbershopProvider>
+  );
 }

@@ -13,7 +13,7 @@ import Testimonials from "@/components/single/Testimonials";
 import LocationHours from "@/components/single/LocationHours";
 import Footer from "@/components/single/Footer";
 
-function BarbershopApp() {
+export function BarbershopApp() {
   const [selectedService, setSelectedService] = useState("Signature Precision Cut");
   const [selectedBarber, setSelectedBarber] = useState("Any available master barber");
 
