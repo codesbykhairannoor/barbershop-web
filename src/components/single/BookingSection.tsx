@@ -2,7 +2,8 @@
 
 import { useState, useEffect } from "react";
 import { servicesList } from "./Services";
-import { MessageCircle, Calendar, Clock, User, Phone, CheckCircle, Shield } from "lucide-react";
+import { MessageCircle, Shield, CheckCircle } from "lucide-react";
+import { useBarbershop } from "@/context/BarbershopContext";
 
 interface BookingSectionProps {
   selectedService: string;
@@ -17,12 +18,14 @@ export default function BookingSection({
   selectedBarber,
   setSelectedBarber,
 }: BookingSectionProps) {
-  const [date, setDate] = useState("");
+  const shop = useBarbershop();
 
+  const [date, setDate] = useState("");
   useEffect(() => {
     const today = new Date();
     setDate(today.toISOString().split("T")[0]);
   }, []);
+
   const [timeSlot, setTimeSlot] = useState("14:00 - 15:00 (Afternoon)");
   const [name, setName] = useState("");
   const [phone, setPhone] = useState("");
@@ -53,7 +56,7 @@ export default function BookingSection({
     const guestName = name.trim() || "Guest";
     const guestPhone = phone.trim() || "-";
 
-    const message = `Hello The Modern Cut & Co., I would like to book an appointment:
+    const message = `Hello ${shop.name}, I would like to book an appointment:
 - Service: ${cleanService}
 - Preferred Barber: ${cleanBarber}
 - Date: ${date}
@@ -65,7 +68,14 @@ ${notes ? `- Note: ${notes}` : ""}
 Please confirm if this slot is open. Thank you!`;
 
     const encoded = encodeURIComponent(message);
-    const waUrl = `https://wa.me/6281214807192?text=${encoded}`;
+    const cleanShopPhone = shop.phone.replace(/[^0-9]/g, "");
+    const formattedPhone = cleanShopPhone.startsWith("0")
+      ? "62" + cleanShopPhone.slice(1)
+      : cleanShopPhone.startsWith("8")
+      ? "62" + cleanShopPhone
+      : cleanShopPhone || "6281214807192";
+
+    const waUrl = `https://wa.me/${formattedPhone}?text=${encoded}`;
 
     setSubmitted(true);
     window.open(waUrl, "_blank");
@@ -80,10 +90,10 @@ Please confirm if this slot is open. Thank you!`;
             Instant Reservations
           </span>
           <h2 className="font-display font-bold text-3xl sm:text-4xl text-stone-900 tracking-tight mb-3">
-            Reserve your chair in seconds
+            Reserve your chair at {shop.name}
           </h2>
           <p className="text-stone-600 text-xs sm:text-sm leading-relaxed">
-            Choose your service, preferred barber, and time slot. We will confirm your appointment instantly via WhatsApp.
+            Choose your service, preferred barber, and time slot. Your reservation goes directly to {shop.name}&apos;s studio WhatsApp ({shop.phone}).
           </p>
         </div>
 
@@ -98,7 +108,7 @@ Please confirm if this slot is open. Thank you!`;
                 Booking request initiated!
               </h3>
               <p className="text-stone-600 text-sm max-w-md mx-auto mb-6">
-                Your WhatsApp has been opened with your appointment details. Our studio concierge will reply shortly to lock in your chair.
+                Your WhatsApp has been opened with your appointment details directly to {shop.name}. Their concierge will reply shortly to lock in your chair.
               </p>
               <button
                 type="button"
@@ -155,16 +165,14 @@ Please confirm if this slot is open. Thank you!`;
                   <label htmlFor="dateInput" className="block text-xs font-bold text-stone-700 uppercase tracking-wider mb-2">
                     Preferred Date *
                   </label>
-                  <div className="relative">
-                    <input
-                      id="dateInput"
-                      type="date"
-                      required
-                      value={date}
-                      onChange={(e) => setDate(e.target.value)}
-                      className="w-full bg-stone-50 border border-stone-200 focus:border-stone-900 focus:bg-white rounded-xl px-4 py-3 text-sm text-stone-900 outline-none transition-all cursor-pointer"
-                    />
-                  </div>
+                  <input
+                    id="dateInput"
+                    type="date"
+                    required
+                    value={date}
+                    onChange={(e) => setDate(e.target.value)}
+                    className="w-full bg-stone-50 border border-stone-200 focus:border-stone-900 focus:bg-white rounded-xl px-4 py-3 text-sm text-stone-900 outline-none transition-all cursor-pointer"
+                  />
                 </div>
 
                 <div>
@@ -229,7 +237,7 @@ Please confirm if this slot is open. Thank you!`;
                   type="text"
                   value={notes}
                   onChange={(e) => setNotes(e.target.value)}
-                  placeholder="e.g. Mid taper fade, beard sculpting, or sensitive scalp"
+                  placeholder="e.g. Skin fade, beard sculpting, or sensitive scalp"
                   className="w-full bg-stone-50 border border-stone-200 focus:border-stone-900 focus:bg-white rounded-xl px-4 py-3 text-sm text-stone-900 outline-none transition-all"
                 />
               </div>
@@ -240,13 +248,13 @@ Please confirm if this slot is open. Thank you!`;
                 className="w-full py-4 px-6 rounded-xl font-bold text-sm text-white bg-[#16a34a] hover:bg-[#15803d] shadow-lg shadow-emerald-600/20 transition-all flex items-center justify-center gap-2"
               >
                 <MessageCircle className="w-5 h-5" />
-                <span>Confirm &amp; Book via WhatsApp Concierge</span>
+                <span>Confirm &amp; Book via {shop.name}&apos;s WhatsApp</span>
               </button>
 
               <div className="flex items-center justify-center gap-4 text-xs text-stone-500 pt-2">
                 <span className="flex items-center gap-1.5">
                   <Shield className="w-3.5 h-3.5 text-stone-400" />
-                  <span>No prepayment required</span>
+                  <span>Direct to {shop.phone}</span>
                 </span>
                 <span>&bull;</span>
                 <span>Free cancellation anytime</span>

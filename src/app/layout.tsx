@@ -15,6 +15,7 @@ const plusJakartaSans = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://barbershop-web-demo.vercel.app"),
   title: "The Modern Cut & Co. | Premier Men's Barbershop & Grooming Studio",
   description: "Experience precision haircuts, royal hot-towel shaves, and beard grooming in a sunlit, welcoming modern studio. Book your appointment online today.",
   icons: {

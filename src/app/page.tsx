@@ -1,6 +1,8 @@
 "use client";
 
 import { useState } from "react";
+import { BarbershopProvider } from "@/context/BarbershopContext";
+import PitchBanner from "@/components/single/PitchBanner";
 import Navbar from "@/components/single/Navbar";
 import Hero from "@/components/single/Hero";
 import Services from "@/components/single/Services";
@@ -11,7 +13,7 @@ import Testimonials from "@/components/single/Testimonials";
 import LocationHours from "@/components/single/LocationHours";
 import Footer from "@/components/single/Footer";
 
-export default function Home() {
+function BarbershopApp() {
   const [selectedService, setSelectedService] = useState("Signature Precision Cut");
   const [selectedBarber, setSelectedBarber] = useState("Any available master barber");
 
@@ -32,13 +34,16 @@ export default function Home() {
     scrollToBooking();
   };
 
-  const handleBookCut = (cutName: string) => {
+  const handleBookCut = () => {
     setSelectedService("Signature Precision Cut");
     scrollToBooking();
   };
 
   return (
     <div className="min-h-screen bg-[#fafaf9] text-[#1c1917] flex flex-col font-sans selection:bg-[#b47820] selection:text-white">
+      {/* Pitch Banner for prospective owner */}
+      <PitchBanner />
+
       {/* Navbar */}
       <Navbar onBookClick={scrollToBooking} />
 
@@ -71,5 +76,13 @@ export default function Home() {
       {/* Footer */}
       <Footer />
     </div>
+  );
+}
+
+export default function Home() {
+  return (
+    <BarbershopProvider>
+      <BarbershopApp />
+    </BarbershopProvider>
   );
 }

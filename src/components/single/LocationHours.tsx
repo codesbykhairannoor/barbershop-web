@@ -1,7 +1,11 @@
+"use client";
+
 import { MapPin, Clock, Phone, Navigation, Coffee, Wifi, Car } from "lucide-react";
+import { useBarbershop } from "@/context/BarbershopContext";
 
 export default function LocationHours() {
-  const mapsUrl = "https://maps.google.com/?q=Senopati+Kebayoran+Baru+Jakarta+Selatan";
+  const shop = useBarbershop();
+  const mapsUrl = `https://maps.google.com/?q=${encodeURIComponent(shop.name + " " + shop.address + " " + shop.cityOrig)}`;
 
   return (
     <section className="py-20 bg-stone-50 border-b border-stone-200/80" id="location">
@@ -20,9 +24,8 @@ export default function LocationHours() {
               <div className="flex items-start gap-3.5">
                 <MapPin className="w-5 h-5 text-[#b47820] shrink-0 mt-0.5" />
                 <div>
-                  <strong className="block text-stone-900 font-semibold mb-1">Address:</strong>
-                  <span>Jl. Senopati No. 42, RT.6/RW.2, Selong, Kebayoran Baru, Jakarta Selatan 12190</span>
-                  <span className="block text-xs text-stone-500 mt-1">Conveniently located 3 minutes from SCBD corridor.</span>
+                  <strong className="block text-stone-900 font-semibold mb-1">Studio Address:</strong>
+                  <span>{shop.address || `${shop.name}, ${shop.cityOrig}`}</span>
                 </div>
               </div>
 
@@ -39,8 +42,11 @@ export default function LocationHours() {
                 <Phone className="w-5 h-5 text-[#b47820] shrink-0 mt-0.5" />
                 <div>
                   <strong className="block text-stone-900 font-semibold mb-1">Direct Line &amp; WhatsApp:</strong>
-                  <a href="tel:081214807192" className="text-stone-900 font-bold hover:text-[#b47820] transition-colors">
-                    0812-1480-7192
+                  <a
+                    href={`tel:${shop.phone.replace(/[^0-9]/g, "")}`}
+                    className="text-stone-900 font-bold hover:text-[#b47820] transition-colors"
+                  >
+                    {shop.phone}
                   </a>
                 </div>
               </div>
@@ -50,7 +56,7 @@ export default function LocationHours() {
             <div className="grid grid-cols-3 gap-3 p-4 bg-white rounded-2xl border border-stone-200/80 mb-8 text-xs text-stone-700">
               <div className="flex items-center gap-2">
                 <Car className="w-4 h-4 text-[#b47820] shrink-0" />
-                <span>Free valet parking</span>
+                <span>Free parking</span>
               </div>
               <div className="flex items-center gap-2">
                 <Wifi className="w-4 h-4 text-[#b47820] shrink-0" />
@@ -83,7 +89,7 @@ export default function LocationHours() {
                 No appointment? No problem.
               </h3>
               <p className="text-stone-600 text-xs sm:text-sm leading-relaxed mb-6">
-                While booking ahead guarantees immediate seating, our lounge is always open for walk-in gentlemen. Relax with a complimentary beverage while waiting for the next available master barber chair.
+                While booking ahead guarantees immediate seating at {shop.name}, our lounge is always open for walk-in guests. Relax with a complimentary beverage while waiting for the next available chair.
               </p>
             </div>
 

@@ -2,6 +2,7 @@
 
 import { useState } from "react";
 import { Scissors, Phone, Calendar, Menu, X, Clock } from "lucide-react";
+import { useBarbershop } from "@/context/BarbershopContext";
 
 interface NavbarProps {
   onBookClick: () => void;
@@ -9,6 +10,7 @@ interface NavbarProps {
 
 export default function Navbar({ onBookClick }: NavbarProps) {
   const [isOpen, setIsOpen] = useState(false);
+  const shop = useBarbershop();
 
   return (
     <>
@@ -17,15 +19,15 @@ export default function Navbar({ onBookClick }: NavbarProps) {
         <div className="max-w-6xl mx-auto flex items-center justify-between flex-wrap gap-2">
           <div className="flex items-center gap-2">
             <Clock className="w-3.5 h-3.5 text-[#b47820]" />
-            <span>Open daily: 09:00 – 21:00 &bull; Jl. Senopati No. 42, Kebayoran Baru, Jakarta Selatan</span>
+            <span>Open daily: 09:00 – 21:00 &bull; {shop.address || "South Jakarta"}</span>
           </div>
           <div className="flex items-center gap-4 text-stone-700 font-medium">
             <a
-              href="tel:081214807192"
+              href={`tel:${shop.phone.replace(/[^0-9]/g, "")}`}
               className="flex items-center gap-1.5 hover:text-[#b47820] transition-colors"
             >
               <Phone className="w-3.5 h-3.5 text-[#b47820]" />
-              <span>0812-1480-7192</span>
+              <span>{shop.phone}</span>
             </a>
           </div>
         </div>
@@ -34,17 +36,17 @@ export default function Navbar({ onBookClick }: NavbarProps) {
       {/* Main Header */}
       <header className="sticky top-0 z-40 bg-white/95 backdrop-blur-md border-b border-stone-200/80 transition-all">
         <div className="max-w-6xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between">
-          {/* Logo */}
-          <a href="#" className="flex items-center gap-3 group">
-            <div className="w-10 h-10 rounded-xl bg-stone-900 text-stone-100 flex items-center justify-center group-hover:bg-[#b47820] transition-colors shadow-sm">
+          {/* Logo with Dynamic Shop Name */}
+          <a href="#" className="flex items-center gap-3 group max-w-[65%] sm:max-w-none">
+            <div className="w-10 h-10 rounded-xl bg-stone-900 text-stone-100 flex items-center justify-center group-hover:bg-[#b47820] transition-colors shadow-sm shrink-0">
               <Scissors className="w-5 h-5 text-amber-300" />
             </div>
-            <div className="flex flex-col">
-              <span className="font-display font-bold text-lg text-stone-900 leading-tight">
-                The Modern Cut &amp; Co.
+            <div className="flex flex-col min-w-0">
+              <span className="font-display font-bold text-base sm:text-lg text-stone-900 leading-tight truncate">
+                {shop.name}
               </span>
               <span className="text-[11px] text-stone-500 font-medium tracking-wide">
-                Barbershop &amp; Grooming Studio
+                Barbershop &amp; Grooming Studio &bull; {shop.cityOrig}
               </span>
             </div>
           </a>
