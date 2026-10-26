@@ -2,7 +2,7 @@
   {
     "id": 1,
     "slug": "maier-barbershop",
-    "name": "MAIER BARBERSHOP",
+    "name": "Maier Barbershop",
     "service_type": "Penata Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -18,7 +18,7 @@
   {
     "id": 2,
     "slug": "mas-klimis-barbershop",
-    "name": "Mas klimis barbershop",
+    "name": "Mas Klimis Barbershop",
     "service_type": "Penata Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -34,7 +34,7 @@
   {
     "id": 3,
     "slug": "barber-shop-mu-pangkas-rambut",
-    "name": "Barber Shop Mu/pangkas rambut",
+    "name": "Barber Shop Mu/Pangkas Rambut",
     "service_type": "Penata Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -66,7 +66,7 @@
   {
     "id": 5,
     "slug": "hair-space-barber-salon",
-    "name": "Hair space barber&salon",
+    "name": "Hair Space Barber&Salon",
     "service_type": "Salon Kecantikan",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -82,7 +82,7 @@
   {
     "id": 6,
     "slug": "the-good-art-barbershop",
-    "name": "THE GOOD ART barbershop",
+    "name": "The Good Art Barbershop",
     "service_type": "Salon Kecantikan",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -98,7 +98,7 @@
   {
     "id": 7,
     "slug": "trend-barbershop-jakarta",
-    "name": "TREND BARBERSHOP JAKARTA",
+    "name": "Trend Barbershop Jakarta",
     "service_type": "Salon Kecantikan",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -114,7 +114,7 @@
   {
     "id": 8,
     "slug": "b-b-salon-by-arief-salon",
-    "name": "B&B Salon By Arief Salon",
+    "name": "B&B Salon by Arief Salon",
     "service_type": "Salon Kecantikan",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -146,7 +146,7 @@
   {
     "id": 10,
     "slug": "home-barbershop-cabang-2-margahayu",
-    "name": "Home barbershop Cabang 2 (Margahayu)",
+    "name": "Home Barbershop Cabang 2 (Margahayu)",
     "service_type": "Salon Kecantikan",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -210,7 +210,7 @@
   {
     "id": 14,
     "slug": "aston-marteen-barbershop",
-    "name": "aston marteen barbershop",
+    "name": "Aston Marteen Barbershop",
     "service_type": "Salon Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -274,7 +274,7 @@
   {
     "id": 18,
     "slug": "barbershop-barberbro",
-    "name": "BARBERSHOP (BARBERBRO)",
+    "name": "Barbershop (Barberbro)",
     "service_type": "Salon Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -290,7 +290,7 @@
   {
     "id": 19,
     "slug": "barbershop-podosuko-pasti-ketagihan-pangkas-d",
-    "name": "BARBERSHOP podosuko pasti ketagihan pangkas di sini",
+    "name": "Barbershop Podosuko Pasti Ketagihan Pangkas di Sini",
     "service_type": "Salon Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -306,7 +306,7 @@
   {
     "id": 20,
     "slug": "barbershop-ridho",
-    "name": "BARBERSHOP RIDHO",
+    "name": "Barbershop Ridho",
     "service_type": "Salon Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -322,7 +322,7 @@
   {
     "id": 21,
     "slug": "barbershop-terdekat-jasmine",
-    "name": "Barbershop terdekat jasmine",
+    "name": "Barbershop Terdekat Jasmine",
     "service_type": "Salon Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -338,7 +338,7 @@
   {
     "id": 22,
     "slug": "ben-z-barbershop",
-    "name": "Ben'Z Barbershop",
+    "name": "Ben'z Barbershop",
     "service_type": "Salon Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -370,7 +370,7 @@
   {
     "id": 24,
     "slug": "gang-sempit-barbershop",
-    "name": "GANG SEMPIT Barbershop",
+    "name": "Gang Sempit Barbershop",
     "service_type": "Salon Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -434,7 +434,7 @@
   {
     "id": 28,
     "slug": "kaizen-kuningan-city",
-    "name": "kaizen kuningan city",
+    "name": "Kaizen Kuningan City",
     "service_type": "Salon Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -498,7 +498,7 @@
   {
     "id": 32,
     "slug": "lvb-barbershop",
-    "name": "LVB BARBERSHOP",
+    "name": "Lvb Barbershop",
     "service_type": "Salon Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -546,7 +546,7 @@
   {
     "id": 35,
     "slug": "neko-barbershop",
-    "name": "Neko barbershop",
+    "name": "Neko Barbershop",
     "service_type": "Salon Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -562,7 +562,7 @@
   {
     "id": 36,
     "slug": "palelo-barbershop",
-    "name": "PALELO Barbershop",
+    "name": "Palelo Barbershop",
     "service_type": "Salon Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -578,7 +578,7 @@
   {
     "id": 37,
     "slug": "papih-barbershop",
-    "name": "PAPIH BARBERSHOP",
+    "name": "Papih Barbershop",
     "service_type": "Salon Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -626,7 +626,7 @@
   {
     "id": 40,
     "slug": "r-barbershop-jl-percetakan",
-    "name": "R BARBERSHOP jl. Percetakan",
+    "name": "R Barbershop Jl. Percetakan",
     "service_type": "Salon Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -658,7 +658,7 @@
   {
     "id": 42,
     "slug": "rizz-barbershop-jaksel",
-    "name": "RIZZ BARBERSHOP JAKSEL",
+    "name": "Rizz Barbershop Jaksel",
     "service_type": "Salon Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -674,7 +674,7 @@
   {
     "id": 43,
     "slug": "seven-barbershop",
-    "name": "SEVEN BARBERSHOP",
+    "name": "Seven Barbershop",
     "service_type": "Salon Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -690,7 +690,7 @@
   {
     "id": 44,
     "slug": "stylish-barbershop",
-    "name": "STYLISH BARBERSHOP",
+    "name": "Stylish Barbershop",
     "service_type": "Salon Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -738,7 +738,7 @@
   {
     "id": 47,
     "slug": "the-barberstop-tebet",
-    "name": "THE BARBERSTOP TEBET",
+    "name": "The Barberstop Tebet",
     "service_type": "Salon Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -786,7 +786,7 @@
   {
     "id": 50,
     "slug": "trimzone-barbershop",
-    "name": "TRIMZONE BARBERSHOP",
+    "name": "Trimzone Barbershop",
     "service_type": "Salon Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -818,7 +818,7 @@
   {
     "id": 52,
     "slug": "amigos-barbershop",
-    "name": "AMIGOS BARBERSHOP",
+    "name": "Amigos Barbershop",
     "service_type": "Salon Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -834,7 +834,7 @@
   {
     "id": 53,
     "slug": "awa-barber-shop",
-    "name": "AWA BARBER SHOP",
+    "name": "Awa Barber Shop",
     "service_type": "Salon Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -866,7 +866,7 @@
   {
     "id": 55,
     "slug": "barber-pop-jl-sumatera-no-9",
-    "name": "BARBER POP JL SUMATERA NO 9",
+    "name": "Barber Pop Jl Sumatera No 9",
     "service_type": "Salon Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -882,7 +882,7 @@
   {
     "id": 56,
     "slug": "barber-roots-barbershop-saves-cut",
-    "name": "Barber roots ( barbershop ) saves & cut",
+    "name": "Barber Roots ( Barbershop ) Saves & Cut",
     "service_type": "Salon Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -914,7 +914,7 @@
   {
     "id": 58,
     "slug": "barberpos",
-    "name": "BARBERPOS",
+    "name": "Barberpos",
     "service_type": "Salon Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -930,7 +930,7 @@
   {
     "id": 59,
     "slug": "barbershop-dago-kang-ade-aboy",
-    "name": "Barbershop DAGO Kang. ADE ABOY",
+    "name": "Barbershop Dago Kang. Ade Aboy",
     "service_type": "Salon Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -978,7 +978,7 @@
   {
     "id": 62,
     "slug": "barbershop-rz-a",
-    "name": "barbershop rz.a",
+    "name": "Barbershop Rz.A",
     "service_type": "Salon Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -994,7 +994,7 @@
   {
     "id": 63,
     "slug": "barbershop-two-one",
-    "name": "BARBERSHOP TWO.ONE",
+    "name": "Barbershop Two.One",
     "service_type": "Salon Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -1010,7 +1010,7 @@
   {
     "id": 64,
     "slug": "barbersob",
-    "name": "BarBerSob",
+    "name": "Barbersob",
     "service_type": "Salon Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -1042,7 +1042,7 @@
   {
     "id": 66,
     "slug": "main-character-barbershop",
-    "name": "MAIN Character Barbershop",
+    "name": "Main Character Barbershop",
     "service_type": "Salon Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -1058,7 +1058,7 @@
   {
     "id": 67,
     "slug": "man-up-girls-hair-studio-mw",
-    "name": "Man Up & Girls Hair Studio MW",
+    "name": "Man Up & Girls Hair Studio Mw",
     "service_type": "Salon Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -1090,7 +1090,7 @@
   {
     "id": 69,
     "slug": "mister-barber",
-    "name": "Mister barber",
+    "name": "Mister Barber",
     "service_type": "Salon Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -1138,7 +1138,7 @@
   {
     "id": 72,
     "slug": "primkoppol-barbershop",
-    "name": "Primkoppol barbershop",
+    "name": "Primkoppol Barbershop",
     "service_type": "Salon Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -1170,7 +1170,7 @@
   {
     "id": 74,
     "slug": "reef-barbershop-ciganitri",
-    "name": "REEF Barbershop Ciganitri",
+    "name": "Reef Barbershop Ciganitri",
     "service_type": "Salon Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -1250,7 +1250,7 @@
   {
     "id": 79,
     "slug": "41barberco",
-    "name": "41Barberco",
+    "name": "41barberco",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -1282,7 +1282,7 @@
   {
     "id": 81,
     "slug": "a-a-barber-shop",
-    "name": "A'A Barber Shop",
+    "name": "A'a Barber Shop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -1330,7 +1330,7 @@
   {
     "id": 84,
     "slug": "aden-barbershop",
-    "name": "ADEN barbershop",
+    "name": "Aden Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -1346,7 +1346,7 @@
   {
     "id": 85,
     "slug": "adnan-s-barbershop",
-    "name": "Adnan's barbershop",
+    "name": "Adnan's Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -1378,7 +1378,7 @@
   {
     "id": 87,
     "slug": "ag-barbershop-premium",
-    "name": "AG Barbershop (Premium)",
+    "name": "Ag Barbershop (Premium)",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -1394,7 +1394,7 @@
   {
     "id": 88,
     "slug": "aing-barbershop-johar",
-    "name": "AING BARBERSHOP JOHAR",
+    "name": "Aing Barbershop Johar",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -1410,7 +1410,7 @@
   {
     "id": 89,
     "slug": "alexandro-barbershop",
-    "name": "alexandro barbershop",
+    "name": "Alexandro Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -1458,7 +1458,7 @@
   {
     "id": 92,
     "slug": "arts-resto-barber",
-    "name": "ARTS RESTO & BARBER",
+    "name": "Arts Resto & Barber",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -1474,7 +1474,7 @@
   {
     "id": 93,
     "slug": "asastha-barbershop-nusantara",
-    "name": "ASASTHA BARBERSHOP NUSANTARA",
+    "name": "Asastha Barbershop Nusantara",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -1522,7 +1522,7 @@
   {
     "id": 96,
     "slug": "atbarbershop",
-    "name": "AT_BARBERSHOP",
+    "name": "At_barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -1554,7 +1554,7 @@
   {
     "id": 98,
     "slug": "aulya-barbershop",
-    "name": "Aulya barbershop",
+    "name": "Aulya Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -1618,7 +1618,7 @@
   {
     "id": 102,
     "slug": "babeh-barbershop",
-    "name": "BABEH BARBERSHOP",
+    "name": "Babeh Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -1634,7 +1634,7 @@
   {
     "id": 103,
     "slug": "bahagia-selalu-barbershop",
-    "name": "BAHAGIA SELALU BARBERSHOP",
+    "name": "Bahagia Selalu Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -1650,7 +1650,7 @@
   {
     "id": 104,
     "slug": "barber-bless-yosimartin-barbershop-cabang-cip",
-    "name": "Barber bless yosimartin Barbershop cabang cipulir 1 jakarta selatan",
+    "name": "Barber Bless Yosimartin Barbershop Cabang Cipulir 1 Jakarta Selatan",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -1666,7 +1666,7 @@
   {
     "id": 105,
     "slug": "barber-bless-yosimartin-cabang-kebayoran-lama",
-    "name": "Barber Bless yosimartin cabang kebayoran lama",
+    "name": "Barber Bless Yosimartin Cabang Kebayoran Lama",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -1762,7 +1762,7 @@
   {
     "id": 111,
     "slug": "barber-home-service-potong-pangkas-cukur-ramb",
-    "name": "Barber home service Potong Pangkas Cukur rambut PANGGILAN (by Andi)",
+    "name": "Barber Home Service Potong Pangkas Cukur Rambut Panggilan (by Andi)",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -1778,7 +1778,7 @@
   {
     "id": 112,
     "slug": "barber-jonie",
-    "name": "BARBER JONIE",
+    "name": "Barber Jonie",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -1794,7 +1794,7 @@
   {
     "id": 113,
     "slug": "barber-panggilan-kangsmell-home-service-barbe",
-    "name": "Barber panggilan Kangsmell (Home service barbershop )",
+    "name": "Barber Panggilan Kangsmell (Home Service Barbershop )",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -1826,7 +1826,7 @@
   {
     "id": 115,
     "slug": "barber-shop-aa",
-    "name": "Barber Shop \"AA\"",
+    "name": "Barber Shop \"aa\"",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -1874,7 +1874,7 @@
   {
     "id": 118,
     "slug": "barber-shop-kencana-adi",
-    "name": "Barber shop kencana adi",
+    "name": "Barber Shop Kencana Adi",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -1890,7 +1890,7 @@
   {
     "id": 119,
     "slug": "barber-shop-paja",
-    "name": "BARBER SHOP PAJA",
+    "name": "Barber Shop Paja",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -1938,7 +1938,7 @@
   {
     "id": 122,
     "slug": "barber-qu-kompas-barbershop",
-    "name": "Barber.Qu kompas Barbershop",
+    "name": "Barber.Qu Kompas Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -1970,7 +1970,7 @@
   {
     "id": 124,
     "slug": "barberbar-lebak-bulus",
-    "name": "BARBERBAR Lebak Bulus",
+    "name": "Barberbar Lebak Bulus",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -1986,7 +1986,7 @@
   {
     "id": 125,
     "slug": "barberbar-pondok-indah-pim-2",
-    "name": "BARBERBAR Pondok Indah PIM 2",
+    "name": "Barberbar Pondok Indah Pim 2",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -2002,7 +2002,7 @@
   {
     "id": 126,
     "slug": "barberbar-tebet",
-    "name": "BARBERBAR Tebet",
+    "name": "Barberbar Tebet",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -2018,7 +2018,7 @@
   {
     "id": 127,
     "slug": "barberboss-kebayoran-lama",
-    "name": "BARBERBOSS Kebayoran Lama",
+    "name": "Barberboss Kebayoran Lama",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -2098,7 +2098,7 @@
   {
     "id": 132,
     "slug": "barberexpress-kemang-barbershop",
-    "name": "BarberExpress Kemang Barbershop",
+    "name": "Barberexpress Kemang Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -2114,7 +2114,7 @@
   {
     "id": 133,
     "slug": "barberexpress-utan-kayu-matraman-barbershop",
-    "name": "BarberExpress Utan Kayu Matraman (Barbershop)",
+    "name": "Barberexpress Utan Kayu Matraman (Barbershop)",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -2130,7 +2130,7 @@
   {
     "id": 134,
     "slug": "barberhomeaa-pangkas-rambut-dan-cukur-rambut-",
-    "name": "Barberhome_aa-pangkas rambut dan cukur rambut panggilan. Jagakarsa Jakarta Selatan",
+    "name": "Barberhome_aa-Pangkas Rambut dan Cukur Rambut Panggilan. Jagakarsa Jakarta Selatan",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -2210,7 +2210,7 @@
   {
     "id": 139,
     "slug": "barberitme",
-    "name": "BARBERITME",
+    "name": "Barberitme",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -2242,7 +2242,7 @@
   {
     "id": 141,
     "slug": "barbermox-barbershop",
-    "name": "BARBERMOX (Barbershop)",
+    "name": "Barbermox (Barbershop)",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -2354,7 +2354,7 @@
   {
     "id": 148,
     "slug": "barbershop-brothers",
-    "name": "BARBERSHOP BROTHERS",
+    "name": "Barbershop Brothers",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -2402,7 +2402,7 @@
   {
     "id": 151,
     "slug": "barbershop-cukur-doeloe",
-    "name": "BARBERSHOP Cukur Doeloe",
+    "name": "Barbershop Cukur Doeloe",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -2450,7 +2450,7 @@
   {
     "id": 154,
     "slug": "barbershop-exchange",
-    "name": "Barbershop exchange",
+    "name": "Barbershop Exchange",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -2466,7 +2466,7 @@
   {
     "id": 155,
     "slug": "barbershop-golden47",
-    "name": "Barbershop golden47",
+    "name": "Barbershop Golden47",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -2482,7 +2482,7 @@
   {
     "id": 156,
     "slug": "barbershop-hangtuah",
-    "name": "BARBERSHOP HANGTUAH",
+    "name": "Barbershop Hangtuah",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -2498,7 +2498,7 @@
   {
     "id": 157,
     "slug": "barbershop-hunters",
-    "name": "BARBERSHOP HUNTERS",
+    "name": "Barbershop Hunters",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -2514,7 +2514,7 @@
   {
     "id": 158,
     "slug": "barbershop-kael-jagakarsa",
-    "name": "Barbershop kael Jagakarsa",
+    "name": "Barbershop Kael Jagakarsa",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -2594,7 +2594,7 @@
   {
     "id": 163,
     "slug": "barbershop-melati",
-    "name": "BARBERSHOP MELATI",
+    "name": "Barbershop Melati",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -2642,7 +2642,7 @@
   {
     "id": 166,
     "slug": "barbershop-ponk-q-2",
-    "name": "BARBERSHOP PONK'Q 2",
+    "name": "Barbershop Ponk'q 2",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -2658,7 +2658,7 @@
   {
     "id": 167,
     "slug": "barbershop-ponk-q-4",
-    "name": "BARBERSHOP PONK'Q 4",
+    "name": "Barbershop Ponk'q 4",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -2674,7 +2674,7 @@
   {
     "id": 168,
     "slug": "barbershop-ponk-q-garut",
-    "name": "BARBERSHOP PONK'Q GARUT",
+    "name": "Barbershop Ponk'q Garut",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -2690,7 +2690,7 @@
   {
     "id": 169,
     "slug": "barbershop-qq",
-    "name": "Barbershop QQ",
+    "name": "Barbershop Qq",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -2850,7 +2850,7 @@
   {
     "id": 179,
     "slug": "barbershop-the-noah-tempat-cukur-rambut",
-    "name": "Barbershop The Noah (tempat cukur rambut)",
+    "name": "Barbershop the Noah (Tempat Cukur Rambut)",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -2898,7 +2898,7 @@
   {
     "id": 182,
     "slug": "barbershopbaraka-jkt",
-    "name": "BarbershopBaraka.jkt",
+    "name": "Barbershopbaraka.Jkt",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -2914,7 +2914,7 @@
   {
     "id": 183,
     "slug": "barbershot-la",
-    "name": "Barbershot LA",
+    "name": "Barbershot La",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -3010,7 +3010,7 @@
   {
     "id": 189,
     "slug": "barcode-barbershop",
-    "name": "BARCODE BARBERSHOP",
+    "name": "Barcode Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -3026,7 +3026,7 @@
   {
     "id": 190,
     "slug": "batavia-cuts",
-    "name": "Batavia cuts",
+    "name": "Batavia Cuts",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -3042,7 +3042,7 @@
   {
     "id": 191,
     "slug": "batavia-vintage-barbershop",
-    "name": "batavia vintage barbershop",
+    "name": "Batavia Vintage Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -3074,7 +3074,7 @@
   {
     "id": 193,
     "slug": "begaya-barbershop",
-    "name": "BEGAYA BARBERSHOP",
+    "name": "Begaya Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -3138,7 +3138,7 @@
   {
     "id": 197,
     "slug": "bgl-barbershop",
-    "name": "BGL BARBERSHOP",
+    "name": "Bgl Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -3218,7 +3218,7 @@
   {
     "id": 202,
     "slug": "blora-barbershop-1",
-    "name": "BLORA BARBERSHOP 1",
+    "name": "Blora Barbershop 1",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -3234,7 +3234,7 @@
   {
     "id": 203,
     "slug": "blue-comb-78-the-barbershop",
-    "name": "Blue Comb'78 The Barbershop",
+    "name": "Blue Comb'78 the Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -3266,7 +3266,7 @@
   {
     "id": 205,
     "slug": "braid-house-hair-studio-by-jacky-tribal",
-    "name": "Braid House Hair Studio by Jacky tribal",
+    "name": "Braid House Hair Studio by Jacky Tribal",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -3282,7 +3282,7 @@
   {
     "id": 206,
     "slug": "bravecut-barbershop-and-colouring",
-    "name": "Bravecut barbershop And Colouring",
+    "name": "Bravecut Barbershop and Colouring",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -3298,7 +3298,7 @@
   {
     "id": 207,
     "slug": "brixtoncuts-barbershop",
-    "name": "Brixtoncuts barbershop",
+    "name": "Brixtoncuts Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -3474,7 +3474,7 @@
   {
     "id": 218,
     "slug": "captain-barbershop-dutamas",
-    "name": "CAPTAIN BARBERSHOP DUTAMAS",
+    "name": "Captain Barbershop Dutamas",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -3490,7 +3490,7 @@
   {
     "id": 219,
     "slug": "captain-barbershop-grand-wisata",
-    "name": "Captain Barbershop Grand wisata",
+    "name": "Captain Barbershop Grand Wisata",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -3794,7 +3794,7 @@
   {
     "id": 238,
     "slug": "captain-barbershop-summarecon-bekasi",
-    "name": "CAPTAIN BARBERSHOP SUMMARECON BEKASI",
+    "name": "Captain Barbershop Summarecon Bekasi",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -3858,7 +3858,7 @@
   {
     "id": 242,
     "slug": "castle-barbershop-kp-bulu",
-    "name": "castle barbershop kp. bulu",
+    "name": "Castle Barbershop Kp. Bulu",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -3874,7 +3874,7 @@
   {
     "id": 243,
     "slug": "centris-barbershop-cabang-tebet",
-    "name": "CENTRIS BARBERSHOP (CABANG TEBET)",
+    "name": "Centris Barbershop (Cabang Tebet)",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -3970,7 +3970,7 @@
   {
     "id": 249,
     "slug": "chief-barbershop-pakubuwono",
-    "name": "CHIEF BARBERSHOP - PAKUBUWONO",
+    "name": "Chief Barbershop - Pakubuwono",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4002,7 +4002,7 @@
   {
     "id": 251,
     "slug": "chief-barbershop-sabang",
-    "name": "CHIEF BARBERSHOP - SABANG",
+    "name": "Chief Barbershop - Sabang",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4034,7 +4034,7 @@
   {
     "id": 253,
     "slug": "classy-hair-studio",
-    "name": "CLASSY HAIR STUDIO",
+    "name": "Classy Hair Studio",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4082,7 +4082,7 @@
   {
     "id": 256,
     "slug": "clever-barbershop-kalibata-city",
-    "name": "CLEVER BARBERSHOP KALIBATA CITY",
+    "name": "Clever Barbershop Kalibata City",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4178,7 +4178,7 @@
   {
     "id": 262,
     "slug": "cozy-barbershop",
-    "name": "COZY BARBERSHOP",
+    "name": "Cozy Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4194,7 +4194,7 @@
   {
     "id": 263,
     "slug": "cptn-hairmechanic-tambun",
-    "name": "CPTN Hairmechanic Tambun",
+    "name": "Cptn Hairmechanic Tambun",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4290,7 +4290,7 @@
   {
     "id": 269,
     "slug": "cukur-rambut-priangan-jaya",
-    "name": "Cukur rambut Priangan jaya",
+    "name": "Cukur Rambut Priangan Jaya",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4306,7 +4306,7 @@
   {
     "id": 270,
     "slug": "cuqur-barbershop",
-    "name": "CUQUR BARBERSHOP",
+    "name": "Cuqur Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4322,7 +4322,7 @@
   {
     "id": 271,
     "slug": "cut-deteak-barbershop",
-    "name": "CUT DETEAK BARBERSHOP",
+    "name": "Cut Deteak Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4354,7 +4354,7 @@
   {
     "id": 273,
     "slug": "cut-s-hive-barber",
-    "name": "CUT'S HIVE BARBER",
+    "name": "Cut's Hive Barber",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4386,7 +4386,7 @@
   {
     "id": 275,
     "slug": "cuts-kids-barbershop-playground",
-    "name": "CUTS & KIDS- Barbershop & Playground",
+    "name": "Cuts & Kids- Barbershop & Playground",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4434,7 +4434,7 @@
   {
     "id": 278,
     "slug": "dapper-den-barbershop-reflexology-and-waxing-",
-    "name": "DAPPER DEN BARBERSHOP, REFLEXOLOGY AND WAXING KUNINGAN CITY",
+    "name": "Dapper Den Barbershop, Reflexology and Waxing Kuningan City",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4514,7 +4514,7 @@
   {
     "id": 283,
     "slug": "demigod-barberstudio",
-    "name": "DEMIGOD BARBERSTUDIO",
+    "name": "Demigod Barberstudio",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4562,7 +4562,7 @@
   {
     "id": 286,
     "slug": "di-bawah-pohon-barber-shop-kemang",
-    "name": "Di Bawah Pohon Barber & Shop KEMANG",
+    "name": "Di Bawah Pohon Barber & Shop Kemang",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4578,7 +4578,7 @@
   {
     "id": 287,
     "slug": "di-bawah-pohon-barber-shop-menteng",
-    "name": "Di Bawah Pohon Barber & Shop MENTENG",
+    "name": "Di Bawah Pohon Barber & Shop Menteng",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4594,7 +4594,7 @@
   {
     "id": 288,
     "slug": "di-bawah-pohon-barber-shop-puri-1",
-    "name": "Di Bawah Pohon Barber & Shop PURI 1",
+    "name": "Di Bawah Pohon Barber & Shop Puri 1",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4610,7 +4610,7 @@
   {
     "id": 289,
     "slug": "di-bawah-pohon-barber-shop-scbd",
-    "name": "Di Bawah Pohon Barber & Shop SCBD",
+    "name": "Di Bawah Pohon Barber & Shop Scbd",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4642,7 +4642,7 @@
   {
     "id": 291,
     "slug": "dika-barbershop",
-    "name": "DIKA BARBERSHOP",
+    "name": "Dika Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4690,7 +4690,7 @@
   {
     "id": 294,
     "slug": "djoeragan-barbershop",
-    "name": "Djoeragan barbershop",
+    "name": "Djoeragan Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4770,7 +4770,7 @@
   {
     "id": 299,
     "slug": "doha-barbershop",
-    "name": "DOHA BARBERSHOP",
+    "name": "Doha Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4786,7 +4786,7 @@
   {
     "id": 300,
     "slug": "dos-barbershop",
-    "name": "DOS. Barbershop",
+    "name": "Dos. Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4834,7 +4834,7 @@
   {
     "id": 303,
     "slug": "eg-barbershop",
-    "name": "EG BARBERSHOP",
+    "name": "Eg Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4866,7 +4866,7 @@
   {
     "id": 305,
     "slug": "elegant-barbershop-kalibata",
-    "name": "elegant barbershop kalibata",
+    "name": "Elegant Barbershop Kalibata",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4882,7 +4882,7 @@
   {
     "id": 306,
     "slug": "ercuts-barbershop",
-    "name": "ERCUTS BARBERSHOP",
+    "name": "Ercuts Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4930,7 +4930,7 @@
   {
     "id": 309,
     "slug": "fantastis-barber-studio-tebet",
-    "name": "FANTASTIS BARBER STUDIO TEBET",
+    "name": "Fantastis Barber Studio Tebet",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4946,7 +4946,7 @@
   {
     "id": 310,
     "slug": "fantastis-barbershop-benhil",
-    "name": "FANTASTIS BARBERSHOP BENHIL",
+    "name": "Fantastis Barbershop Benhil",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4962,7 +4962,7 @@
   {
     "id": 311,
     "slug": "fi-barbershop-muwardi",
-    "name": "FI Barbershop Muwardi",
+    "name": "Fi Barbershop Muwardi",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4978,7 +4978,7 @@
   {
     "id": 312,
     "slug": "fi-barbershop-tanjung-duren",
-    "name": "FI Barbershop Tanjung Duren",
+    "name": "Fi Barbershop Tanjung Duren",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -4994,7 +4994,7 @@
   {
     "id": 313,
     "slug": "firman-barbershop-official",
-    "name": "FIRMAN BARBERSHOP OFFICIAL",
+    "name": "Firman Barbershop Official",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5026,7 +5026,7 @@
   {
     "id": 315,
     "slug": "fk-barbershop",
-    "name": "FK BARBERSHOP",
+    "name": "Fk Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5042,7 +5042,7 @@
   {
     "id": 316,
     "slug": "fogu-barbershop-co",
-    "name": "FOGU BARBERSHOP & CO",
+    "name": "Fogu Barbershop & Co",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5058,7 +5058,7 @@
   {
     "id": 317,
     "slug": "folksy-barbershop",
-    "name": "Folksy barbershop",
+    "name": "Folksy Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5074,7 +5074,7 @@
   {
     "id": 318,
     "slug": "fortune-barbershop",
-    "name": "FORTUNE BARBERSHOP",
+    "name": "Fortune Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5106,7 +5106,7 @@
   {
     "id": 320,
     "slug": "fyn-barbershop-kemang",
-    "name": "FYN Barbershop - Kemang",
+    "name": "Fyn Barbershop - Kemang",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5122,7 +5122,7 @@
   {
     "id": 321,
     "slug": "gcut-barbershop",
-    "name": "G_cut barbershop",
+    "name": "G_cut Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5282,7 +5282,7 @@
   {
     "id": 331,
     "slug": "gaya-barbershop",
-    "name": "GAYA barbershop",
+    "name": "Gaya Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5298,7 +5298,7 @@
   {
     "id": 332,
     "slug": "ge-co-barbershop",
-    "name": "GE.CO Barbershop",
+    "name": "Ge.Co Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5314,7 +5314,7 @@
   {
     "id": 333,
     "slug": "gege-barbershop",
-    "name": "Gege BARBERSHOP",
+    "name": "Gege Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5330,7 +5330,7 @@
   {
     "id": 334,
     "slug": "genlaki-barbershop",
-    "name": "GENLAKI BARBERSHOP",
+    "name": "Genlaki Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5346,7 +5346,7 @@
   {
     "id": 335,
     "slug": "genlaki-barbershop-gen-2",
-    "name": "GENLAKI BARBERSHOP GEN-2",
+    "name": "Genlaki Barbershop Gen-2",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5362,7 +5362,7 @@
   {
     "id": 336,
     "slug": "genre-barbershop",
-    "name": "GENRE Barbershop",
+    "name": "Genre Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5426,7 +5426,7 @@
   {
     "id": 340,
     "slug": "gentology-barbershop-tanjung-duren-branch",
-    "name": "Gentology Barbershop (Tanjung Duren branch)",
+    "name": "Gentology Barbershop (Tanjung Duren Branch)",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5538,7 +5538,7 @@
   {
     "id": 347,
     "slug": "golden-scissor-barbershop",
-    "name": "GOLDEN SCISSOR BARBERSHOP",
+    "name": "Golden Scissor Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5602,7 +5602,7 @@
   {
     "id": 351,
     "slug": "gregory-barbershop",
-    "name": "Gregory barbershop",
+    "name": "Gregory Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5618,7 +5618,7 @@
   {
     "id": 352,
     "slug": "guan-teng-barbershop-blok-m-square",
-    "name": "Guan teng Barbershop blok M Square",
+    "name": "Guan Teng Barbershop Blok M Square",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5666,7 +5666,7 @@
   {
     "id": 355,
     "slug": "gun-s-barbershop",
-    "name": "Gun's barbershop",
+    "name": "Gun's Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5698,7 +5698,7 @@
   {
     "id": 357,
     "slug": "hair-pro-barbershop-gaharu",
-    "name": "HAIR PRO BARBERSHOP GAHARU",
+    "name": "Hair Pro Barbershop Gaharu",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5714,7 +5714,7 @@
   {
     "id": 358,
     "slug": "hair-we-go-barbershop-i-the-forum-sektor-1",
-    "name": "HAIR WE GO BARBERSHOP I The Forum SEKTOR 1",
+    "name": "Hair We Go Barbershop I the Forum Sektor 1",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5762,7 +5762,7 @@
   {
     "id": 361,
     "slug": "hairhaus-bekasi-barbershop-salon",
-    "name": "HAIRHAUS Bekasi - Barbershop & Salon",
+    "name": "Hairhaus Bekasi - Barbershop & Salon",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5778,7 +5778,7 @@
   {
     "id": 362,
     "slug": "hairhaus-kuningan-barbershop-salon",
-    "name": "HAIRHAUS Kuningan - Barbershop & Salon",
+    "name": "Hairhaus Kuningan - Barbershop & Salon",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5826,7 +5826,7 @@
   {
     "id": 365,
     "slug": "hairon-barbershop",
-    "name": "HAIRON BARBERSHOP",
+    "name": "Hairon Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5858,7 +5858,7 @@
   {
     "id": 367,
     "slug": "hairstudio-salon-barber-cipete",
-    "name": "HAIRSTUDIO SALON & BARBER CIPETE",
+    "name": "Hairstudio Salon & Barber Cipete",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5906,7 +5906,7 @@
   {
     "id": 370,
     "slug": "harper-barber-10",
-    "name": "HARPER BARBER #10",
+    "name": "Harper Barber #10",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5938,7 +5938,7 @@
   {
     "id": 372,
     "slug": "headquarter-barbershop-sebelumnya-star-cut-ba",
-    "name": "HeaDQuarter Barbershop (Sebelumnya: Star Cut Barbershop)",
+    "name": "Headquarter Barbershop (Sebelumnya: Star Cut Barbershop)",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -5970,7 +5970,7 @@
   {
     "id": 374,
     "slug": "hellium-barbershop",
-    "name": "HELLIUM BARBERSHOP",
+    "name": "Hellium Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6002,7 +6002,7 @@
   {
     "id": 376,
     "slug": "herrkutz-barbershop-season-1-sasak-3",
-    "name": "Herrkutz Barbershop - season 1 ( sasak 3 )",
+    "name": "Herrkutz Barbershop - Season 1 ( Sasak 3 )",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6066,7 +6066,7 @@
   {
     "id": 380,
     "slug": "hr-steam-barber",
-    "name": "HR Steam&Barber",
+    "name": "Hr Steam&Barber",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6082,7 +6082,7 @@
   {
     "id": 381,
     "slug": "hr-urbanstreet-barberstudio",
-    "name": "HR.urbanstreet ( BARBERSTUDIO )",
+    "name": "Hr.Urbanstreet ( Barberstudio )",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6098,7 +6098,7 @@
   {
     "id": 382,
     "slug": "ichiro-barbershop",
-    "name": "ICHIRO BARBERSHOP",
+    "name": "Ichiro Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6130,7 +6130,7 @@
   {
     "id": 384,
     "slug": "igd-barbershop",
-    "name": "IGD Barbershop",
+    "name": "Igd Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6146,7 +6146,7 @@
   {
     "id": 385,
     "slug": "inrooms-barbershop-manggarai-selatan",
-    "name": "Inrooms barbershop manggarai selatan",
+    "name": "Inrooms Barbershop Manggarai Selatan",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6162,7 +6162,7 @@
   {
     "id": 386,
     "slug": "ixo-shavencut-kuningan",
-    "name": "IXO shaveNcut Kuningan",
+    "name": "Ixo shaveNcut Kuningan",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6178,7 +6178,7 @@
   {
     "id": 387,
     "slug": "ixobox-cilandak-town-square",
-    "name": "IXOBOX Cilandak Town Square",
+    "name": "Ixobox Cilandak Town Square",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6194,7 +6194,7 @@
   {
     "id": 388,
     "slug": "ixobox-pacific-place",
-    "name": "Ixobox pacific place",
+    "name": "Ixobox Pacific Place",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6242,7 +6242,7 @@
   {
     "id": 391,
     "slug": "jagaraksa-barbershop",
-    "name": "JAGARAKSA Barbershop",
+    "name": "Jagaraksa Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6258,7 +6258,7 @@
   {
     "id": 392,
     "slug": "jail-barber",
-    "name": "JAIL BARBER",
+    "name": "Jail Barber",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6274,7 +6274,7 @@
   {
     "id": 393,
     "slug": "jakartans-barbershop",
-    "name": "Jakartans barbershop",
+    "name": "Jakartans Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6290,7 +6290,7 @@
   {
     "id": 394,
     "slug": "james-barber-and-coffee",
-    "name": "James Barber and coffee",
+    "name": "James Barber and Coffee",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6306,7 +6306,7 @@
   {
     "id": 395,
     "slug": "jbs-bintaro",
-    "name": "JBS Bintaro",
+    "name": "Jbs Bintaro",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6322,7 +6322,7 @@
   {
     "id": 396,
     "slug": "jbs-lebak-bulus",
-    "name": "JBS Lebak Bulus",
+    "name": "Jbs Lebak Bulus",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6338,7 +6338,7 @@
   {
     "id": 397,
     "slug": "jbs-tebet",
-    "name": "JBS Tebet",
+    "name": "Jbs Tebet",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6354,7 +6354,7 @@
   {
     "id": 398,
     "slug": "jeck-barbershop",
-    "name": "JECK BARBERSHOP",
+    "name": "Jeck Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6370,7 +6370,7 @@
   {
     "id": 399,
     "slug": "jes-barbershop",
-    "name": "JES BARBERSHOP",
+    "name": "Jes Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6386,7 +6386,7 @@
   {
     "id": 400,
     "slug": "jes-barbershop-1",
-    "name": "JES BARBERSHOP",
+    "name": "Jes Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6418,7 +6418,7 @@
   {
     "id": 402,
     "slug": "juragan-cukur",
-    "name": "JURAGAN CUKUR",
+    "name": "Juragan Cukur",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6466,7 +6466,7 @@
   {
     "id": 405,
     "slug": "kaasep-barbershop",
-    "name": "Kaasep barbershop",
+    "name": "Kaasep Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6546,7 +6546,7 @@
   {
     "id": 410,
     "slug": "kaizen-rasuna-salon-barbershop",
-    "name": "KAIZEN Rasuna Salon & Barbershop",
+    "name": "Kaizen Rasuna Salon & Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6562,7 +6562,7 @@
   {
     "id": 411,
     "slug": "kapsterbox-tambun",
-    "name": "KAPSTERBOX TAMBUN",
+    "name": "Kapsterbox Tambun",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6578,7 +6578,7 @@
   {
     "id": 412,
     "slug": "kasibah-barbershop-studio",
-    "name": "KASIBAH BARBERSHOP STUDIO",
+    "name": "Kasibah Barbershop Studio",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6658,7 +6658,7 @@
   {
     "id": 417,
     "slug": "kensbarber",
-    "name": "kensbarber",
+    "name": "Kensbarber",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6674,7 +6674,7 @@
   {
     "id": 418,
     "slug": "komplek-barbershop-lenteng-agung",
-    "name": "KOMPLEK Barbershop Lenteng Agung",
+    "name": "Komplek Barbershop Lenteng Agung",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6690,7 +6690,7 @@
   {
     "id": 419,
     "slug": "kulmn-barbershop",
-    "name": "KULMN BARBERSHOP",
+    "name": "Kulmn Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6706,7 +6706,7 @@
   {
     "id": 420,
     "slug": "kulmn-barbershop-binus",
-    "name": "KULMN BARBERSHOP BINUS",
+    "name": "Kulmn Barbershop Binus",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6722,7 +6722,7 @@
   {
     "id": 421,
     "slug": "kulmn-barbershop-kebayoran",
-    "name": "KULMN BARBERSHOP KEBAYORAN",
+    "name": "Kulmn Barbershop Kebayoran",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6738,7 +6738,7 @@
   {
     "id": 422,
     "slug": "kumaito-barbershop",
-    "name": "KUMAITO Barbershop",
+    "name": "Kumaito Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6754,7 +6754,7 @@
   {
     "id": 423,
     "slug": "laki-barbershop",
-    "name": "LAKI BARBERSHOP",
+    "name": "Laki Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6802,7 +6802,7 @@
   {
     "id": 426,
     "slug": "lamode-barbero",
-    "name": "LAMODE BARBERO",
+    "name": "Lamode Barbero",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6866,7 +6866,7 @@
   {
     "id": 430,
     "slug": "lardo-barbershop",
-    "name": "Lardo barbershop",
+    "name": "Lardo Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6930,7 +6930,7 @@
   {
     "id": 434,
     "slug": "luang-at-jagakarsa",
-    "name": "LUANG at Jagakarsa",
+    "name": "Luang at Jagakarsa",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6946,7 +6946,7 @@
   {
     "id": 435,
     "slug": "lucky-barbershop",
-    "name": "LUCKY BARBERSHOP",
+    "name": "Lucky Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6978,7 +6978,7 @@
   {
     "id": 437,
     "slug": "luxe-barbershop-srengseng-sawah",
-    "name": "LUXE Barbershop Srengseng Sawah",
+    "name": "Luxe Barbershop Srengseng Sawah",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -6994,7 +6994,7 @@
   {
     "id": 438,
     "slug": "m9s-barbershop",
-    "name": "m9s.barbershop",
+    "name": "M9s.Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7010,7 +7010,7 @@
   {
     "id": 439,
     "slug": "macho-barbershop",
-    "name": "Macho barbershop",
+    "name": "Macho Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7026,7 +7026,7 @@
   {
     "id": 440,
     "slug": "madawa-barbershop",
-    "name": "MADAWA BARBERSHOP",
+    "name": "Madawa Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7106,7 +7106,7 @@
   {
     "id": 445,
     "slug": "mancave-barbershop",
-    "name": "MANCAVE BARBERSHOP",
+    "name": "Mancave Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7138,7 +7138,7 @@
   {
     "id": 447,
     "slug": "manov-barbershop",
-    "name": "MANOV BARBERSHOP",
+    "name": "Manov Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7154,7 +7154,7 @@
   {
     "id": 448,
     "slug": "marco-s-chop-shop-barbershop-ashta-district-8",
-    "name": "Marco's Chop Shop Barbershop - ASHTA District 8",
+    "name": "Marco's Chop Shop Barbershop - Ashta District 8",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7298,7 +7298,7 @@
   {
     "id": 457,
     "slug": "mass-barber",
-    "name": "MASS BARBER",
+    "name": "Mass Barber",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7346,7 +7346,7 @@
   {
     "id": 460,
     "slug": "maximus-barbershop-and-coffee",
-    "name": "Maximus Barbershop And Coffee",
+    "name": "Maximus Barbershop and Coffee",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7362,7 +7362,7 @@
   {
     "id": 461,
     "slug": "mbois-haircut",
-    "name": "MBOIS HAIRCUT",
+    "name": "Mbois Haircut",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7426,7 +7426,7 @@
   {
     "id": 465,
     "slug": "mister-barber-3",
-    "name": "MISTER BARBER",
+    "name": "Mister Barber",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7458,7 +7458,7 @@
   {
     "id": 467,
     "slug": "mois-barber",
-    "name": "MOIS BARBER",
+    "name": "Mois Barber",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7474,7 +7474,7 @@
   {
     "id": 468,
     "slug": "mojo-barbershop",
-    "name": "MOJO BARBERSHOP",
+    "name": "Mojo Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7490,7 +7490,7 @@
   {
     "id": 469,
     "slug": "moregan-barbershop-cidodol",
-    "name": "MOREGAN Barbershop Cidodol",
+    "name": "Moregan Barbershop Cidodol",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7538,7 +7538,7 @@
   {
     "id": 472,
     "slug": "mr-ricky-barbershop",
-    "name": "MR RICKY BARBERSHOP",
+    "name": "Mr Ricky Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7554,7 +7554,7 @@
   {
     "id": 473,
     "slug": "mr-bdg-haircut",
-    "name": "MR.BDG | Haircut",
+    "name": "Mr.Bdg | Haircut",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7586,7 +7586,7 @@
   {
     "id": 475,
     "slug": "mushab-hair-studio-barbershop-kampung-melayu",
-    "name": "MUSHAB Hair Studio - Barbershop Kampung Melayu",
+    "name": "Mushab Hair Studio - Barbershop Kampung Melayu",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7602,7 +7602,7 @@
   {
     "id": 476,
     "slug": "mustang-barbershop-bintaro",
-    "name": "MUSTANG BARBERSHOP BINTARO",
+    "name": "Mustang Barbershop Bintaro",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7618,7 +7618,7 @@
   {
     "id": 477,
     "slug": "my-bos-barbershop",
-    "name": "MY BOS BARBERSHOP",
+    "name": "My Bos Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7634,7 +7634,7 @@
   {
     "id": 478,
     "slug": "nagi-barbershop-japanese-style-premium-haircu",
-    "name": "NAGI Barbershop - Japanese Style & Premium Haircut",
+    "name": "Nagi Barbershop - Japanese Style & Premium Haircut",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7666,7 +7666,7 @@
   {
     "id": 480,
     "slug": "nayazra-barbershop",
-    "name": "NayAzra Barbershop",
+    "name": "Nayazra Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7698,7 +7698,7 @@
   {
     "id": 482,
     "slug": "new-cuts-on-the-block",
-    "name": "New cuts on the block",
+    "name": "New Cuts On the Block",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7714,7 +7714,7 @@
   {
     "id": 483,
     "slug": "ngebarber",
-    "name": "NGEBARBER",
+    "name": "Ngebarber",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7730,7 +7730,7 @@
   {
     "id": 484,
     "slug": "nick-the-barbership",
-    "name": "Nick The Barbership",
+    "name": "Nick the Barbership",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7778,7 +7778,7 @@
   {
     "id": 487,
     "slug": "nine-o-barbershop-eyelash-coffee-jagakarsa",
-    "name": "Nine'O Barbershop, Eyelash & Coffee,Jagakarsa",
+    "name": "Nine'o Barbershop, Eyelash & Coffee,Jagakarsa",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7810,7 +7810,7 @@
   {
     "id": 489,
     "slug": "noga-barbershop",
-    "name": "NOGA BARBERSHOP",
+    "name": "Noga Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7826,7 +7826,7 @@
   {
     "id": 490,
     "slug": "nuansa-coffee-and-barber",
-    "name": "Nuansa coffee and barber",
+    "name": "Nuansa Coffee and Barber",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7970,7 +7970,7 @@
   {
     "id": 499,
     "slug": "pacco-bang-gentlemens-grooming",
-    "name": "PACCO BANG!! GENTLEMENS GROOMING",
+    "name": "Pacco Bang!! Gentlemens Grooming",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -7986,7 +7986,7 @@
   {
     "id": 500,
     "slug": "pancos-barbershop",
-    "name": "PANCOS BARBERSHOP",
+    "name": "Pancos Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -8002,7 +8002,7 @@
   {
     "id": 501,
     "slug": "pandawa-barbershop",
-    "name": "PANDAWA BARBERSHOP",
+    "name": "Pandawa Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -8050,7 +8050,7 @@
   {
     "id": 504,
     "slug": "pangkas-rambut-edi-team-cabang-2",
-    "name": "Pangkas Rambut Edi Team cabang 2",
+    "name": "Pangkas Rambut Edi Team Cabang 2",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -8178,7 +8178,7 @@
   {
     "id": 512,
     "slug": "pangkas-rambut-panggilan",
-    "name": "Pangkas rambut panggilan",
+    "name": "Pangkas Rambut Panggilan",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -8210,7 +8210,7 @@
   {
     "id": 514,
     "slug": "pangkas-rambut-sarip-hidayat",
-    "name": "PANGKAS RAMBUT SARIP HIDAYAT",
+    "name": "Pangkas Rambut Sarip Hidayat",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -8290,7 +8290,7 @@
   {
     "id": 519,
     "slug": "pax-wijaya-barbershop",
-    "name": "PAX WIJAYA BARBERSHOP",
+    "name": "Pax Wijaya Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -8370,7 +8370,7 @@
   {
     "id": 524,
     "slug": "payu-barbershop",
-    "name": "Payu barbershop",
+    "name": "Payu Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -8466,7 +8466,7 @@
   {
     "id": 530,
     "slug": "prabu-barbershop-cabang-2",
-    "name": "PRABU BARBERSHOP CABANG 2",
+    "name": "Prabu Barbershop Cabang 2",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -8482,7 +8482,7 @@
   {
     "id": 531,
     "slug": "premier-barbershop",
-    "name": "PREMIER Barbershop",
+    "name": "Premier Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -8514,7 +8514,7 @@
   {
     "id": 533,
     "slug": "prime-cut-barbershop",
-    "name": "PRIME CUT BARBERSHOP",
+    "name": "Prime Cut Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -8530,7 +8530,7 @@
   {
     "id": 534,
     "slug": "prof-barbershop",
-    "name": "PROF BARBERSHOP",
+    "name": "Prof Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -8562,7 +8562,7 @@
   {
     "id": 536,
     "slug": "r-barbershop",
-    "name": "R barbershop",
+    "name": "R Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -8642,7 +8642,7 @@
   {
     "id": 541,
     "slug": "ray-barberhouse",
-    "name": "Ray barberhouse",
+    "name": "Ray Barberhouse",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -8690,7 +8690,7 @@
   {
     "id": 544,
     "slug": "retro-barber",
-    "name": "Retro barber",
+    "name": "Retro Barber",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -8722,7 +8722,7 @@
   {
     "id": 546,
     "slug": "rh-barbershop-tambun",
-    "name": "RH BARBERSHOP TAMBUN",
+    "name": "Rh Barbershop Tambun",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -8738,7 +8738,7 @@
   {
     "id": 547,
     "slug": "rino-barber",
-    "name": "RINO barber",
+    "name": "Rino Barber",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -8754,7 +8754,7 @@
   {
     "id": 548,
     "slug": "rizki-barbershop",
-    "name": "Rizki barbershop",
+    "name": "Rizki Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -8770,7 +8770,7 @@
   {
     "id": 549,
     "slug": "rj-barbershop",
-    "name": "RJ Barbershop",
+    "name": "Rj Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -8818,7 +8818,7 @@
   {
     "id": 552,
     "slug": "room-barbershop",
-    "name": "ROOM BARBERSHOP",
+    "name": "Room Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -8866,7 +8866,7 @@
   {
     "id": 555,
     "slug": "ruang-cukur-barbershop-pasar-santa",
-    "name": "RUANG CUKUR BARBERSHOP PASAR SANTA",
+    "name": "Ruang Cukur Barbershop Pasar Santa",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -8882,7 +8882,7 @@
   {
     "id": 556,
     "slug": "ruang-cukur-barbershop-pondok-pinang",
-    "name": "RUANG CUKUR BARBERSHOP PONDOK PINANG",
+    "name": "Ruang Cukur Barbershop Pondok Pinang",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -8898,7 +8898,7 @@
   {
     "id": 557,
     "slug": "rudy-salon-barbershop-tomang-bisa-terima-pang",
-    "name": "RUDY Salon Barbershop Tomang (Bisa Terima Panggilan ke Rumah/Kantor)",
+    "name": "Rudy Salon Barbershop Tomang (Bisa Terima Panggilan ke Rumah/Kantor)",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -8914,7 +8914,7 @@
   {
     "id": 558,
     "slug": "rydra-barbershop",
-    "name": "RYDRA BARBERSHOP",
+    "name": "Rydra Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -8930,7 +8930,7 @@
   {
     "id": 559,
     "slug": "sk-thebarbergeh",
-    "name": "s@k@ thebarbergeh",
+    "name": "S@k@ Thebarbergeh",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -8962,7 +8962,7 @@
   {
     "id": 561,
     "slug": "sae-barbershop",
-    "name": "SAE Barbershop",
+    "name": "Sae Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -8978,7 +8978,7 @@
   {
     "id": 562,
     "slug": "sensel-barbershop",
-    "name": "SENSEL BARBERSHOP",
+    "name": "Sensel Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -9010,7 +9010,7 @@
   {
     "id": 564,
     "slug": "serious-cut-barbershop-tanjung-duren",
-    "name": "SERIOUS CUT BARBERSHOP TANJUNG DUREN",
+    "name": "Serious Cut Barbershop Tanjung Duren",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -9042,7 +9042,7 @@
   {
     "id": 566,
     "slug": "setiabudi-class-barbershop",
-    "name": "SETIABUDI CLASS BARBERSHOP",
+    "name": "Setiabudi Class Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -9138,7 +9138,7 @@
   {
     "id": 572,
     "slug": "simbiosis-barbershop",
-    "name": "simbiosis barbershop",
+    "name": "Simbiosis Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -9298,7 +9298,7 @@
   {
     "id": 582,
     "slug": "sonnie-barbershop",
-    "name": "SONNIE BARBERSHOP",
+    "name": "Sonnie Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -9314,7 +9314,7 @@
   {
     "id": 583,
     "slug": "ss-barbershop",
-    "name": "SS-BARBERSHOP",
+    "name": "Ss-Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -9330,7 +9330,7 @@
   {
     "id": 584,
     "slug": "ss32-barber-shop",
-    "name": "SS32 Barber Shop",
+    "name": "Ss32 Barber Shop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -9378,7 +9378,7 @@
   {
     "id": 587,
     "slug": "story-barbershop",
-    "name": "STORY BARBERSHOP",
+    "name": "Story Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -9394,7 +9394,7 @@
   {
     "id": 588,
     "slug": "stroke-cut-barbershop",
-    "name": "Stroke cut barbershop",
+    "name": "Stroke Cut Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -9442,7 +9442,7 @@
   {
     "id": 591,
     "slug": "sule-barbershop",
-    "name": "sule barbershop",
+    "name": "Sule Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -9474,7 +9474,7 @@
   {
     "id": 593,
     "slug": "tampang-tamanpangkas",
-    "name": "TAMPANG Taman_Pangkas",
+    "name": "Tampang Taman_Pangkas",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -9506,7 +9506,7 @@
   {
     "id": 595,
     "slug": "teras-barber",
-    "name": "TERAS BARBER",
+    "name": "Teras Barber",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -9586,7 +9586,7 @@
   {
     "id": 600,
     "slug": "the-barber-company-setiabudi",
-    "name": "The barber company - setiabudi",
+    "name": "The Barber Company - Setiabudi",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -9746,7 +9746,7 @@
   {
     "id": 610,
     "slug": "the-patriot-barbershop-hublife-mall",
-    "name": "The patriot barbershop - Hublife Mall",
+    "name": "The Patriot Barbershop - Hublife Mall",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -9762,7 +9762,7 @@
   {
     "id": 611,
     "slug": "the-priv-s-barbershop",
-    "name": "THE PRIV'S BARBERSHOP",
+    "name": "The Priv's Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -9778,7 +9778,7 @@
   {
     "id": 612,
     "slug": "the-trip-cut",
-    "name": "THE TRIP CUT",
+    "name": "The Trip Cut",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -9794,7 +9794,7 @@
   {
     "id": 613,
     "slug": "the-cuts-barbershop",
-    "name": "The'cuts barbershop",
+    "name": "The'cuts Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -9842,7 +9842,7 @@
   {
     "id": 616,
     "slug": "thekingsbro-barber-coffe-shop",
-    "name": "TheKingsbro Barber & Coffe Shop",
+    "name": "Thekingsbro Barber & Coffe Shop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -9858,7 +9858,7 @@
   {
     "id": 617,
     "slug": "thirtyfifth-barbershop",
-    "name": "Thirtyfifth BARBERSHOP",
+    "name": "Thirtyfifth Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -9922,7 +9922,7 @@
   {
     "id": 621,
     "slug": "tohang-s-barber-senopati-x-giora-coffee-brew",
-    "name": "Tohang's Barber Senopati x Giora Coffee Brew",
+    "name": "Tohang's Barber Senopati X Giora Coffee Brew",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -9970,7 +9970,7 @@
   {
     "id": 624,
     "slug": "tollerojhink-barbershop",
-    "name": "TOLLEROJHINK barbershop",
+    "name": "Tollerojhink Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -10034,7 +10034,7 @@
   {
     "id": 628,
     "slug": "tukang-cukur-rambut-panggilan-mustofa-barber-",
-    "name": "Tukang Cukur Rambut Panggilan \"MUSTOFA BARBER HOUSE\"",
+    "name": "Tukang Cukur Rambut Panggilan \"mustofa Barber House\"",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -10098,7 +10098,7 @@
   {
     "id": 632,
     "slug": "u-look-s-barbershop",
-    "name": "U look's Barbershop",
+    "name": "U Look's Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -10114,7 +10114,7 @@
   {
     "id": 633,
     "slug": "ubarkopi-kopi-dan-barbershop",
-    "name": "UBARKOPI kopi dan barbershop",
+    "name": "Ubarkopi Kopi dan Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -10146,7 +10146,7 @@
   {
     "id": 635,
     "slug": "uncle-rif-s-barbershop",
-    "name": "UNCLE RIF'S BARBERSHOP",
+    "name": "Uncle Rif's Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -10194,7 +10194,7 @@
   {
     "id": 638,
     "slug": "uppercutz-barbershop",
-    "name": "uppercutz Barbershop",
+    "name": "Uppercutz Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -10226,7 +10226,7 @@
   {
     "id": 640,
     "slug": "vessel-barbershop",
-    "name": "VESSEL BARBERSHOP",
+    "name": "Vessel Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -10258,7 +10258,7 @@
   {
     "id": 642,
     "slug": "waroeng-cukur",
-    "name": "Waroeng cukur",
+    "name": "Waroeng Cukur",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -10274,7 +10274,7 @@
   {
     "id": 643,
     "slug": "westcut-barbershop-meruya",
-    "name": "WESTCUT BARBERSHOP MERUYA",
+    "name": "Westcut Barbershop Meruya",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -10290,7 +10290,7 @@
   {
     "id": 644,
     "slug": "win-hair-studio-barbershop",
-    "name": "Win hair studio barbershop",
+    "name": "Win Hair Studio Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -10306,7 +10306,7 @@
   {
     "id": 645,
     "slug": "win-the-barber",
-    "name": "WIN THE BARBER",
+    "name": "Win the Barber",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -10354,7 +10354,7 @@
   {
     "id": 648,
     "slug": "worx-barbershop",
-    "name": "WORX BARBERSHOP",
+    "name": "Worx Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -10370,7 +10370,7 @@
   {
     "id": 649,
     "slug": "xro-barbershop",
-    "name": "XRO barbershop",
+    "name": "Xro Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -10386,7 +10386,7 @@
   {
     "id": 650,
     "slug": "yalla-barbershop-pati-unus",
-    "name": "YALLA BARBERSHOP - PATI UNUS",
+    "name": "Yalla Barbershop - Pati Unus",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -10402,7 +10402,7 @@
   {
     "id": 651,
     "slug": "yellow-cutz-barbershop",
-    "name": "Yellow cutz barbershop",
+    "name": "Yellow Cutz Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -10434,7 +10434,7 @@
   {
     "id": 653,
     "slug": "z-premium-barbershop-jeruk-purut",
-    "name": "Z PREMIUM BARBERSHOP JERUK PURUT",
+    "name": "Z Premium Barbershop Jeruk Purut",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -10450,7 +10450,7 @@
   {
     "id": 654,
     "slug": "z-premium-barbershop-lebak-bulus",
-    "name": "Z PREMIUM BARBERSHOP LEBAK BULUS",
+    "name": "Z Premium Barbershop Lebak Bulus",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -10482,7 +10482,7 @@
   {
     "id": 656,
     "slug": "zona-barbershop-petogogan",
-    "name": "ZONA BARBERSHOP PETOGOGAN",
+    "name": "Zona Barbershop Petogogan",
     "service_type": "Tempat Cukur Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -10546,7 +10546,7 @@
   {
     "id": 660,
     "slug": "99-mastercut-barbershop",
-    "name": "99 MASTERCUT BARBERSHOP",
+    "name": "99 Mastercut Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -10578,7 +10578,7 @@
   {
     "id": 662,
     "slug": "aa-barbershop",
-    "name": "AA BARBERSHOP",
+    "name": "Aa Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -10610,7 +10610,7 @@
   {
     "id": 664,
     "slug": "aceng-barbershop",
-    "name": "ACENG BARBERSHOP",
+    "name": "Aceng Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -10626,7 +10626,7 @@
   {
     "id": 665,
     "slug": "adbarber-soekarno-hatta",
-    "name": "AD_BARBER SOEKARNO HATTA",
+    "name": "Ad_barber Soekarno Hatta",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -10642,7 +10642,7 @@
   {
     "id": 666,
     "slug": "adbarber-telkom",
-    "name": "AD_BARBER TELKOM",
+    "name": "Ad_barber Telkom",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -10674,7 +10674,7 @@
   {
     "id": 668,
     "slug": "alfarel-barbershop-buah-batu",
-    "name": "Alfarel Barbershop buah batu",
+    "name": "Alfarel Barbershop Buah Batu",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -10690,7 +10690,7 @@
   {
     "id": 669,
     "slug": "ali-barbershop",
-    "name": "ALI BARBERSHOP",
+    "name": "Ali Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -10706,7 +10706,7 @@
   {
     "id": 670,
     "slug": "alzetabarbershop",
-    "name": "ALZETA_BARBERSHOP",
+    "name": "Alzeta_barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -10754,7 +10754,7 @@
   {
     "id": 673,
     "slug": "andra-barber",
-    "name": "ANDRA BARBER",
+    "name": "Andra Barber",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -10834,7 +10834,7 @@
   {
     "id": 678,
     "slug": "artsbarber",
-    "name": "ArtsBarber",
+    "name": "Artsbarber",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -10850,7 +10850,7 @@
   {
     "id": 679,
     "slug": "as-space-barbershop",
-    "name": "AS Space Barbershop",
+    "name": "As Space Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -10882,7 +10882,7 @@
   {
     "id": 681,
     "slug": "babeh-hair-studio",
-    "name": "BABEH HAIR STUDIO",
+    "name": "Babeh Hair Studio",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -10930,7 +10930,7 @@
   {
     "id": 684,
     "slug": "bandit-barbershop-jatinangor",
-    "name": "BANDIT BARBERSHOP JATINANGOR",
+    "name": "Bandit Barbershop Jatinangor",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -10962,7 +10962,7 @@
   {
     "id": 686,
     "slug": "baraja-barbershop-cimahi",
-    "name": "Baraja Barbershop cimahi",
+    "name": "Baraja Barbershop Cimahi",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -10994,7 +10994,7 @@
   {
     "id": 688,
     "slug": "barber-home-ig-tukang-cukur",
-    "name": "Barber Home IG Tukang Cukur",
+    "name": "Barber Home Ig Tukang Cukur",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11010,7 +11010,7 @@
   {
     "id": 689,
     "slug": "barber-indra",
-    "name": "BARBER INDRA",
+    "name": "Barber Indra",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11042,7 +11042,7 @@
   {
     "id": 691,
     "slug": "barber-nines-good-looks-good-lucks",
-    "name": "Barber Nines \"Good looks, Good Lucks\"",
+    "name": "Barber Nines \"Good Looks, Good Lucks\"",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11058,7 +11058,7 @@
   {
     "id": 692,
     "slug": "barber-pd",
-    "name": "barber PD",
+    "name": "Barber Pd",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11170,7 +11170,7 @@
   {
     "id": 699,
     "slug": "barber-temen",
-    "name": "BARBER TEMEN",
+    "name": "Barber Temen",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11186,7 +11186,7 @@
   {
     "id": 700,
     "slug": "barber-bro",
-    "name": "Barber.bro",
+    "name": "Barber.Bro",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11202,7 +11202,7 @@
   {
     "id": 701,
     "slug": "barberbos-antapani",
-    "name": "BarBerBos • Antapani",
+    "name": "Barberbos • Antapani",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11218,7 +11218,7 @@
   {
     "id": 702,
     "slug": "barberbos-cihanjuang",
-    "name": "BarBerBos • Cihanjuang",
+    "name": "Barberbos • Cihanjuang",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11234,7 +11234,7 @@
   {
     "id": 703,
     "slug": "barberbos-kbp-kota-baru-parahyangan",
-    "name": "BarBerBos • KBP (Kota Baru Parahyangan)",
+    "name": "Barberbos • Kbp (Kota Baru Parahyangan)",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11250,7 +11250,7 @@
   {
     "id": 704,
     "slug": "barberbos-maskumambang",
-    "name": "BarBerBos • Maskumambang",
+    "name": "Barberbos • Maskumambang",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11266,7 +11266,7 @@
   {
     "id": 705,
     "slug": "barberbos-mekar-wangi",
-    "name": "BarBerBos • Mekar Wangi",
+    "name": "Barberbos • Mekar Wangi",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11282,7 +11282,7 @@
   {
     "id": 706,
     "slug": "barberbos-padjajaran",
-    "name": "BarBerBos • Padjajaran",
+    "name": "Barberbos • Padjajaran",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11298,7 +11298,7 @@
   {
     "id": 707,
     "slug": "barberbos-progo",
-    "name": "BarBerBos • Progo",
+    "name": "Barberbos • Progo",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11314,7 +11314,7 @@
   {
     "id": 708,
     "slug": "barberbos-rajawali",
-    "name": "BarBerBos • Rajawali",
+    "name": "Barberbos • Rajawali",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11330,7 +11330,7 @@
   {
     "id": 709,
     "slug": "barberbos-ramdhan",
-    "name": "BarBerBos • Ramdhan",
+    "name": "Barberbos • Ramdhan",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11346,7 +11346,7 @@
   {
     "id": 710,
     "slug": "barberbos-soerya-sumantri",
-    "name": "BarBerBos • Soerya Sumantri",
+    "name": "Barberbos • Soerya Sumantri",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11362,7 +11362,7 @@
   {
     "id": 711,
     "slug": "barberbos-summarecon",
-    "name": "BarBerBos • Summarecon",
+    "name": "Barberbos • Summarecon",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11378,7 +11378,7 @@
   {
     "id": 712,
     "slug": "barberbos-express-cimahi",
-    "name": "BarBerBos Express • Cimahi",
+    "name": "Barberbos Express • Cimahi",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11394,7 +11394,7 @@
   {
     "id": 713,
     "slug": "barberbos-karawang",
-    "name": "BarBerBos Karawang",
+    "name": "Barberbos Karawang",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11410,7 +11410,7 @@
   {
     "id": 714,
     "slug": "barberbos-naripan",
-    "name": "BarBerBos Naripan",
+    "name": "Barberbos Naripan",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11426,7 +11426,7 @@
   {
     "id": 715,
     "slug": "barberbos-podomoro",
-    "name": "BarBerBos Podomoro",
+    "name": "Barberbos Podomoro",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11442,7 +11442,7 @@
   {
     "id": 716,
     "slug": "barbercube-jatinangor",
-    "name": "BARBERCUBE Jatinangor",
+    "name": "Barbercube Jatinangor",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11490,7 +11490,7 @@
   {
     "id": 719,
     "slug": "barberfits-ciumbuleuit",
-    "name": "barberfits • Ciumbuleuit",
+    "name": "Barberfits • Ciumbuleuit",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11506,7 +11506,7 @@
   {
     "id": 720,
     "slug": "barberfits-pandawa",
-    "name": "barberfits • Pandawa",
+    "name": "Barberfits • Pandawa",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11522,7 +11522,7 @@
   {
     "id": 721,
     "slug": "barbergill-haircut",
-    "name": "BARBERGILL (Haircut)",
+    "name": "Barbergill (Haircut)",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11554,7 +11554,7 @@
   {
     "id": 723,
     "slug": "barberkraft-jatinangor",
-    "name": "BARBERKRAFT Jatinangor",
+    "name": "Barberkraft Jatinangor",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11570,7 +11570,7 @@
   {
     "id": 724,
     "slug": "barberlabs-hq",
-    "name": "BARBERLABS HQ",
+    "name": "Barberlabs Hq",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11730,7 +11730,7 @@
   {
     "id": 734,
     "slug": "barbershop-alatas-7",
-    "name": "BARBERSHOP ALATAS 7",
+    "name": "Barbershop Alatas 7",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11826,7 +11826,7 @@
   {
     "id": 740,
     "slug": "barbershop-blusky",
-    "name": "Barbershop blusky",
+    "name": "Barbershop Blusky",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11842,7 +11842,7 @@
   {
     "id": 741,
     "slug": "barbershop-cutclub-cimahi",
-    "name": "Barbershop cutclub cimahi",
+    "name": "Barbershop Cutclub Cimahi",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11874,7 +11874,7 @@
   {
     "id": 743,
     "slug": "barbershop-galeri-3",
-    "name": "BARBERSHOP GALERI 3",
+    "name": "Barbershop Galeri 3",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -11906,7 +11906,7 @@
   {
     "id": 745,
     "slug": "barbershop-hq-99-bandung",
-    "name": "BARBERSHOP HQ 99 BANDUNG",
+    "name": "Barbershop Hq 99 Bandung",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -12018,7 +12018,7 @@
   {
     "id": 752,
     "slug": "barbershop-rumah-cukur",
-    "name": "Barbershop Rumah cukur",
+    "name": "Barbershop Rumah Cukur",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -12098,7 +12098,7 @@
   {
     "id": 757,
     "slug": "barbershop-tedz-s-hair-studio",
-    "name": "Barbershop tedz's hair studio",
+    "name": "Barbershop Tedz's Hair Studio",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -12114,7 +12114,7 @@
   {
     "id": 758,
     "slug": "barbershop-tempat-cukur-rambut-premium-razor",
-    "name": "Barbershop tempat cukur rambut premium Razor",
+    "name": "Barbershop Tempat Cukur Rambut Premium Razor",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -12146,7 +12146,7 @@
   {
     "id": 760,
     "slug": "barbershop-timurnesia",
-    "name": "BARBERSHOP TIMURNESIA",
+    "name": "Barbershop Timurnesia",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -12162,7 +12162,7 @@
   {
     "id": 761,
     "slug": "barbershop-za",
-    "name": "BARBERSHOP ZA",
+    "name": "Barbershop Za",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -12226,7 +12226,7 @@
   {
     "id": 765,
     "slug": "barbertoy-1",
-    "name": "BARBERTOY 1",
+    "name": "Barbertoy 1",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -12242,7 +12242,7 @@
   {
     "id": 766,
     "slug": "barbervision-barbershop",
-    "name": "BarberVision - Barbershop",
+    "name": "Barbervision - Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -12258,7 +12258,7 @@
   {
     "id": 767,
     "slug": "barkof-barber-coffee-shop",
-    "name": "BARKOF (Barber & Coffee shop)",
+    "name": "Barkof (Barber & Coffee Shop)",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -12290,7 +12290,7 @@
   {
     "id": 769,
     "slug": "barracut-barbershop",
-    "name": "BarraCut Barbershop",
+    "name": "Barracut Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -12370,7 +12370,7 @@
   {
     "id": 774,
     "slug": "bikers-barbershop",
-    "name": "BIKERS BARBERSHOP",
+    "name": "Bikers Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -12386,7 +12386,7 @@
   {
     "id": 775,
     "slug": "blackcube-barbershop",
-    "name": "BLACKCUBE BARBERSHOP",
+    "name": "Blackcube Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -12434,7 +12434,7 @@
   {
     "id": 778,
     "slug": "boyy-s-barbershop",
-    "name": "BOYY'S BARBERSHOP",
+    "name": "Boyy's Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -12450,7 +12450,7 @@
   {
     "id": 779,
     "slug": "braderbarber-sekeloa",
-    "name": "BraderBarber Sekeloa",
+    "name": "Braderbarber Sekeloa",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -12482,7 +12482,7 @@
   {
     "id": 781,
     "slug": "british-barbershop",
-    "name": "BRITISH BARBERSHOP",
+    "name": "British Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -12546,7 +12546,7 @@
   {
     "id": 785,
     "slug": "brocut-barberhouse",
-    "name": "BROCUT BARBERHOUSE",
+    "name": "Brocut Barberhouse",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -12818,7 +12818,7 @@
   {
     "id": 802,
     "slug": "cekiu-barbershop",
-    "name": "CEKIU Barbershop",
+    "name": "Cekiu Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -12834,7 +12834,7 @@
   {
     "id": 803,
     "slug": "ceo-barbershop",
-    "name": "CEO BarberShop",
+    "name": "Ceo BarberShop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -12946,7 +12946,7 @@
   {
     "id": 810,
     "slug": "commence",
-    "name": "COMMENCE",
+    "name": "Commence",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13058,7 +13058,7 @@
   {
     "id": 817,
     "slug": "cukur-hade-barbershop-cikutra",
-    "name": "CUKUR HADE BARBERSHOP - CIKUTRA",
+    "name": "Cukur Hade Barbershop - Cikutra",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13074,7 +13074,7 @@
   {
     "id": 818,
     "slug": "cukur-hade-barbershop-lengkong-kecil",
-    "name": "CUKUR HADE BARBERSHOP - LENGKONG KECIL",
+    "name": "Cukur Hade Barbershop - Lengkong Kecil",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13090,7 +13090,7 @@
   {
     "id": 819,
     "slug": "cukur-hade-barbershop-tsm",
-    "name": "CUKUR HADE BARBERSHOP - TSM",
+    "name": "Cukur Hade Barbershop - Tsm",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13106,7 +13106,7 @@
   {
     "id": 820,
     "slug": "cukur-yuk",
-    "name": "CUKUR YUK",
+    "name": "Cukur Yuk",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13186,7 +13186,7 @@
   {
     "id": 825,
     "slug": "cut-in-your-head-barbershop",
-    "name": "Cut In Your Head Barbershop",
+    "name": "Cut in Your Head Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13202,7 +13202,7 @@
   {
     "id": 826,
     "slug": "cutclub-barbershop",
-    "name": "CUTCLUB BARBERSHOP",
+    "name": "Cutclub Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13218,7 +13218,7 @@
   {
     "id": 827,
     "slug": "cutla-barbershop",
-    "name": "CUTLA BARBERSHOP",
+    "name": "Cutla Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13234,7 +13234,7 @@
   {
     "id": 828,
     "slug": "d-renz-barber-shop-pomade",
-    "name": "D'Renz Barber Shop & Pomade",
+    "name": "D'renz Barber Shop & Pomade",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13346,7 +13346,7 @@
   {
     "id": 835,
     "slug": "dd-barber-shop",
-    "name": "DD Barber Shop",
+    "name": "Dd Barber Shop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13426,7 +13426,7 @@
   {
     "id": 840,
     "slug": "dr-barber",
-    "name": "DR. BARBER",
+    "name": "Dr. Barber",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13442,7 +13442,7 @@
   {
     "id": 841,
     "slug": "dr-barber-1",
-    "name": "DR.Barber",
+    "name": "Dr.Barber",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13458,7 +13458,7 @@
   {
     "id": 842,
     "slug": "dr-cuts-barbershop",
-    "name": "Dr.cuts barbershop",
+    "name": "Dr.Cuts Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13474,7 +13474,7 @@
   {
     "id": 843,
     "slug": "dr-cuts-barbershop-1",
-    "name": "Dr.cuts barbershop",
+    "name": "Dr.Cuts Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13506,7 +13506,7 @@
   {
     "id": 845,
     "slug": "eastcut-barber-cimahi",
-    "name": "EastCut Barber cimahi",
+    "name": "Eastcut Barber Cimahi",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13522,7 +13522,7 @@
   {
     "id": 846,
     "slug": "eka-barbershop",
-    "name": "EKA BARBERSHOP",
+    "name": "Eka Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13538,7 +13538,7 @@
   {
     "id": 847,
     "slug": "el-barbershop",
-    "name": "EL Barbershop",
+    "name": "El Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13554,7 +13554,7 @@
   {
     "id": 848,
     "slug": "el-barbershop-1",
-    "name": "EL Barbershop",
+    "name": "El Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13570,7 +13570,7 @@
   {
     "id": 849,
     "slug": "el-barbershop-shoes-laundry",
-    "name": "EL BARBERSHOP & SHOES LAUNDRY",
+    "name": "El Barbershop & Shoes Laundry",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13586,7 +13586,7 @@
   {
     "id": 850,
     "slug": "emenns-haircut",
-    "name": "EMENNS HAIRCUT",
+    "name": "Emenns Haircut",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13634,7 +13634,7 @@
   {
     "id": 853,
     "slug": "enginefly-barbershop",
-    "name": "Enginefly barbershop",
+    "name": "Enginefly Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13666,7 +13666,7 @@
   {
     "id": 855,
     "slug": "exel-barbershop",
-    "name": "EXEL BarberShop",
+    "name": "Exel BarberShop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13698,7 +13698,7 @@
   {
     "id": 857,
     "slug": "fajar-stones-barbershop",
-    "name": "FAJAR STONES BARBERSHOP",
+    "name": "Fajar Stones Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13714,7 +13714,7 @@
   {
     "id": 858,
     "slug": "famour-barbershop-dreadlock",
-    "name": "Famour barbershop & Dreadlock",
+    "name": "Famour Barbershop & Dreadlock",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13778,7 +13778,7 @@
   {
     "id": 862,
     "slug": "flash-barbershop",
-    "name": "FLASH Barbershop",
+    "name": "Flash Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13794,7 +13794,7 @@
   {
     "id": 863,
     "slug": "fm-barbershop",
-    "name": "FM BARBERSHOP",
+    "name": "Fm Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13810,7 +13810,7 @@
   {
     "id": 864,
     "slug": "fp-barbershop",
-    "name": "FP BARBERSHOP",
+    "name": "Fp Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13826,7 +13826,7 @@
   {
     "id": 865,
     "slug": "fresh-barber-shop",
-    "name": "Fresh barber shop",
+    "name": "Fresh Barber Shop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13842,7 +13842,7 @@
   {
     "id": 866,
     "slug": "frio-barbershop",
-    "name": "FRIO BARBERSHOP",
+    "name": "Frio Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13858,7 +13858,7 @@
   {
     "id": 867,
     "slug": "fyi-barbershop",
-    "name": "FYI Barbershop",
+    "name": "Fyi Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13922,7 +13922,7 @@
   {
     "id": 871,
     "slug": "gala-barbershop-shoecare",
-    "name": "GALA BARBERSHOP & SHOECARE",
+    "name": "Gala Barbershop & Shoecare",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -13938,7 +13938,7 @@
   {
     "id": 872,
     "slug": "gardit-barbershop",
-    "name": "GARDIT BARBERSHOP",
+    "name": "Gardit Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14002,7 +14002,7 @@
   {
     "id": 876,
     "slug": "gh-barbershop",
-    "name": "GH barbershop",
+    "name": "Gh Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14018,7 +14018,7 @@
   {
     "id": 877,
     "slug": "ghaisan-barber-shop",
-    "name": "GHAISAN BARBER SHOP",
+    "name": "Ghaisan Barber Shop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14066,7 +14066,7 @@
   {
     "id": 880,
     "slug": "gk-barbershop",
-    "name": "GK Barbershop",
+    "name": "Gk Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14146,7 +14146,7 @@
   {
     "id": 885,
     "slug": "golden-barbershop-cihampelas",
-    "name": "Golden barbershop Cihampelas",
+    "name": "Golden Barbershop Cihampelas",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14210,7 +14210,7 @@
   {
     "id": 889,
     "slug": "grandg-barber-shop-piercing-hair-studio-ahmad",
-    "name": "GrandG Barber Shop & Piercing - Hair Studio (Ahmad Dahlan, Bandung)",
+    "name": "Grandg Barber Shop & Piercing - Hair Studio (Ahmad Dahlan, Bandung)",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14226,7 +14226,7 @@
   {
     "id": 890,
     "slug": "grandg-barber-shop-piercing-hair-studio-gatot",
-    "name": "GrandG Barber Shop & Piercing - Hair Studio (Gatot Subroto)",
+    "name": "Grandg Barber Shop & Piercing - Hair Studio (Gatot Subroto)",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14242,7 +14242,7 @@
   {
     "id": 891,
     "slug": "grandg-barber-shop-piercing-hair-studio-gudan",
-    "name": "GrandG Barber Shop & Piercing - Hair Studio (Gudang Utara, Bandung)",
+    "name": "Grandg Barber Shop & Piercing - Hair Studio (Gudang Utara, Bandung)",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14258,7 +14258,7 @@
   {
     "id": 892,
     "slug": "grandg-barber-shop-piercing-hair-studio-kosam",
-    "name": "GrandG Barber Shop & Piercing - Hair Studio (Kosambi, Bandung)",
+    "name": "Grandg Barber Shop & Piercing - Hair Studio (Kosambi, Bandung)",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14306,7 +14306,7 @@
   {
     "id": 895,
     "slug": "groomify-barbershop-monochrome",
-    "name": "Groomify Barbershop MONOCHROME",
+    "name": "Groomify Barbershop Monochrome",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14322,7 +14322,7 @@
   {
     "id": 896,
     "slug": "gumasep-barbershop",
-    "name": "Gumasep barbershop",
+    "name": "Gumasep Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14354,7 +14354,7 @@
   {
     "id": 898,
     "slug": "gunawan-barbershop",
-    "name": "GUNAWAN BARBERSHOP",
+    "name": "Gunawan Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14386,7 +14386,7 @@
   {
     "id": 900,
     "slug": "guts-barberandshop",
-    "name": "GUTS BARBERANDSHOP",
+    "name": "Guts Barberandshop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14402,7 +14402,7 @@
   {
     "id": 901,
     "slug": "guts-barberandshop-2-0",
-    "name": "GUTS BARBERANDSHOP 2.0",
+    "name": "Guts Barberandshop 2.0",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14482,7 +14482,7 @@
   {
     "id": 906,
     "slug": "hairnerds-studio-bandung-barbershop-salon",
-    "name": "Hairnerds Studio Bandung (barbershop & salon)",
+    "name": "Hairnerds Studio Bandung (Barbershop & Salon)",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14514,7 +14514,7 @@
   {
     "id": 908,
     "slug": "hairsdoel-hnr-studio-voll-ii",
-    "name": "Hairsdoel HnR Studio voll II",
+    "name": "Hairsdoel HnR Studio Voll II",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14530,7 +14530,7 @@
   {
     "id": 909,
     "slug": "hairsdoel-studio-voll-l",
-    "name": "Hairsdoel Studio voll l",
+    "name": "Hairsdoel Studio Voll L",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14594,7 +14594,7 @@
   {
     "id": 913,
     "slug": "hens-haircut-barbershop-karawang",
-    "name": "HENS HAIRCUT BARBERSHOP karawang",
+    "name": "Hens Haircut Barbershop Karawang",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14610,7 +14610,7 @@
   {
     "id": 914,
     "slug": "heyboy-barbershop",
-    "name": "HeyBoy barbershop",
+    "name": "Heyboy Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14626,7 +14626,7 @@
   {
     "id": 915,
     "slug": "hollowdreams-barbershop",
-    "name": "HOLLOWDREAMS BARBERSHOP",
+    "name": "Hollowdreams Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14642,7 +14642,7 @@
   {
     "id": 916,
     "slug": "hollowtrips-barbershop",
-    "name": "HOLLOWTRIPS BARBERSHOP",
+    "name": "Hollowtrips Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14658,7 +14658,7 @@
   {
     "id": 917,
     "slug": "holybarber",
-    "name": "HolyBarber",
+    "name": "Holybarber",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14690,7 +14690,7 @@
   {
     "id": 919,
     "slug": "house-of-barbershop-jatinangor",
-    "name": "House Of Barbershop Jatinangor",
+    "name": "House of Barbershop Jatinangor",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14706,7 +14706,7 @@
   {
     "id": 920,
     "slug": "inks-barber-shop",
-    "name": "INKS BARBER SHOP",
+    "name": "Inks Barber Shop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14722,7 +14722,7 @@
   {
     "id": 921,
     "slug": "iras-barbershop",
-    "name": "IRAS BARBERSHOP",
+    "name": "Iras Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14754,7 +14754,7 @@
   {
     "id": 923,
     "slug": "ixobox-23-paskal-bandung",
-    "name": "IXOBOX 23 Paskal Bandung",
+    "name": "Ixobox 23 Paskal Bandung",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14802,7 +14802,7 @@
   {
     "id": 926,
     "slug": "jey-rumah-cukur",
-    "name": "JEY RUMAH CUKUR",
+    "name": "Jey Rumah Cukur",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14818,7 +14818,7 @@
   {
     "id": 927,
     "slug": "jim-s-barbershop-2",
-    "name": "JIM'S BarberShop 2",
+    "name": "Jim's BarberShop 2",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14850,7 +14850,7 @@
   {
     "id": 929,
     "slug": "jim-s-barbershop",
-    "name": "JIM'S® Barbershop",
+    "name": "Jim's® Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14898,7 +14898,7 @@
   {
     "id": 932,
     "slug": "kabin-barbershop",
-    "name": "kabin Barbershop",
+    "name": "Kabin Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14930,7 +14930,7 @@
   {
     "id": 934,
     "slug": "kaka-barbershop-haircut-shave",
-    "name": "KAKA BARBERSHOP HAIRCUT & SHAVE",
+    "name": "Kaka Barbershop Haircut & Shave",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -14994,7 +14994,7 @@
   {
     "id": 938,
     "slug": "karuhun-barber-shop",
-    "name": "KARUHUN BARBER SHOP",
+    "name": "Karuhun Barber Shop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -15106,7 +15106,7 @@
   {
     "id": 945,
     "slug": "kick-head-barbershop",
-    "name": "KICK HEAD BARBERSHOP",
+    "name": "Kick Head Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -15122,7 +15122,7 @@
   {
     "id": 946,
     "slug": "king-haircut-barbershop",
-    "name": "king haircut barbershop",
+    "name": "King Haircut Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -15138,7 +15138,7 @@
   {
     "id": 947,
     "slug": "king-haircut-barbershop-1",
-    "name": "King haircut barbershop",
+    "name": "King Haircut Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -15186,7 +15186,7 @@
   {
     "id": 950,
     "slug": "kingz-barbershop-binong",
-    "name": "KINGZ BARBERSHOP BINONG",
+    "name": "Kingz Barbershop Binong",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -15202,7 +15202,7 @@
   {
     "id": 951,
     "slug": "kinsman-barbershop",
-    "name": "KINSMAN BARBERSHOP",
+    "name": "Kinsman Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -15218,7 +15218,7 @@
   {
     "id": 952,
     "slug": "kitcut-barbershop",
-    "name": "KITCUT BARBERSHOP",
+    "name": "Kitcut Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -15234,7 +15234,7 @@
   {
     "id": 953,
     "slug": "kiwari-barbershop-buah-batu",
-    "name": "KIWARI BARBERSHOP - BUAH BATU",
+    "name": "Kiwari Barbershop - Buah Batu",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -15266,7 +15266,7 @@
   {
     "id": 955,
     "slug": "kronik-barbershop",
-    "name": "KRONIK Barbershop",
+    "name": "Kronik Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -15282,7 +15282,7 @@
   {
     "id": 956,
     "slug": "kuts-barbershop",
-    "name": "KUTS.BARBERSHOP",
+    "name": "Kuts.Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -15298,7 +15298,7 @@
   {
     "id": 957,
     "slug": "layak-tampil-haircut-solution-sukajadi",
-    "name": "LAYAK TAMPIL HAIRCUT SOLUTION SUKAJADI",
+    "name": "Layak Tampil Haircut Solution Sukajadi",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -15362,7 +15362,7 @@
   {
     "id": 961,
     "slug": "lucis-barbercore",
-    "name": "LUCIS BARBERCORE",
+    "name": "Lucis Barbercore",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -15426,7 +15426,7 @@
   {
     "id": 965,
     "slug": "major-d-barbershop",
-    "name": "MAJOR D BARBERSHOP",
+    "name": "Major D Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -15474,7 +15474,7 @@
   {
     "id": 968,
     "slug": "mangnay-barbershop",
-    "name": "MANGNAY BARBERSHOP",
+    "name": "Mangnay Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -15522,7 +15522,7 @@
   {
     "id": 971,
     "slug": "masif-barber-house",
-    "name": "MASIF Barber House",
+    "name": "Masif Barber House",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -15586,7 +15586,7 @@
   {
     "id": 975,
     "slug": "mgr-barbershop",
-    "name": "MGR BARBERSHOP",
+    "name": "Mgr Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -15666,7 +15666,7 @@
   {
     "id": 980,
     "slug": "moxie-hair-studio-barbershop-jln-bojongsoang-",
-    "name": "Moxie Hair Studio ( BARBERSHOP )jln. Bojongsoang 222",
+    "name": "Moxie Hair Studio ( Barbershop )Jln. Bojongsoang 222",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -15698,7 +15698,7 @@
   {
     "id": 982,
     "slug": "mr-frank-barbershop",
-    "name": "Mr Frank barbershop",
+    "name": "Mr Frank Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -15778,7 +15778,7 @@
   {
     "id": 987,
     "slug": "mr-bee-barbershop-vol-2",
-    "name": "MR.BEE BARBERSHOP VOL. 2",
+    "name": "Mr.Bee Barbershop Vol. 2",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -15826,7 +15826,7 @@
   {
     "id": 990,
     "slug": "natarambut-barbershop",
-    "name": "NataRambut Barbershop",
+    "name": "Natarambut Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -15890,7 +15890,7 @@
   {
     "id": 994,
     "slug": "noinst-barbershop",
-    "name": "NOINST BARBERSHOP",
+    "name": "Noinst Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -15938,7 +15938,7 @@
   {
     "id": 997,
     "slug": "o-z-barbershop",
-    "name": "O&Z BARBERSHOP",
+    "name": "O&Z Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -15954,7 +15954,7 @@
   {
     "id": 998,
     "slug": "oc-barber-shop",
-    "name": "OC Barber Shop",
+    "name": "Oc Barber Shop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -15986,7 +15986,7 @@
   {
     "id": 1000,
     "slug": "ons-barbershop",
-    "name": "ONS BARBERSHOP",
+    "name": "Ons Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16002,7 +16002,7 @@
   {
     "id": 1001,
     "slug": "onta-ginding-barbershop",
-    "name": "ONTA GINDING BARBERSHOP",
+    "name": "Onta Ginding Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16114,7 +16114,7 @@
   {
     "id": 1008,
     "slug": "pangkas-rambut-shalira",
-    "name": "PANGKAS RAMBUT SHALIRA",
+    "name": "Pangkas Rambut Shalira",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16162,7 +16162,7 @@
   {
     "id": 1011,
     "slug": "pangkasepna-haircut-studio",
-    "name": "PANGKASEPNA HAIRCUT STUDIO",
+    "name": "Pangkasepna Haircut Studio",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16178,7 +16178,7 @@
   {
     "id": 1012,
     "slug": "pangkasepna-haircut-studio-1",
-    "name": "PANGKASEPNA HAIRCUT STUDIO",
+    "name": "Pangkasepna Haircut Studio",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16210,7 +16210,7 @@
   {
     "id": 1014,
     "slug": "pap-barbershop",
-    "name": "PAP BARBERSHOP",
+    "name": "Pap Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16242,7 +16242,7 @@
   {
     "id": 1016,
     "slug": "pieters-barbershop",
-    "name": "pieters barbershop",
+    "name": "Pieters Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16306,7 +16306,7 @@
   {
     "id": 1020,
     "slug": "pnz-barber-coffee-sarijadi",
-    "name": "PnZ Barber Coffee Sarijadi",
+    "name": "Pnz Barber Coffee Sarijadi",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16338,7 +16338,7 @@
   {
     "id": 1022,
     "slug": "praja-haircut-1",
-    "name": "PRAJA HAIRCUT 1",
+    "name": "Praja Haircut 1",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16354,7 +16354,7 @@
   {
     "id": 1023,
     "slug": "precious-barbershop-pasteur",
-    "name": "PRECIOUS BARBERSHOP PASTEUR",
+    "name": "Precious Barbershop Pasteur",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16386,7 +16386,7 @@
   {
     "id": 1025,
     "slug": "preen-barbershop",
-    "name": "PREEN BARBERSHOP",
+    "name": "Preen Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16418,7 +16418,7 @@
   {
     "id": 1027,
     "slug": "punkasin-haircutstudios",
-    "name": "PUNKASIN HAIRCUTSTUDIOS°",
+    "name": "Punkasin Haircutstudios°",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16434,7 +16434,7 @@
   {
     "id": 1028,
     "slug": "radja-pangkas-babakan-siliwangi-31b",
-    "name": "Radja Pangkas Babakan Siliwangi 31B",
+    "name": "Radja Pangkas Babakan Siliwangi 31b",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16482,7 +16482,7 @@
   {
     "id": 1031,
     "slug": "raja-cukur-barber-shop-cikarang",
-    "name": "RAJA CUKUR BARBER SHOP CIKARANG",
+    "name": "Raja Cukur Barber Shop Cikarang",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16514,7 +16514,7 @@
   {
     "id": 1033,
     "slug": "rapz-hair-studio",
-    "name": "RAPZ HAIR STUDIO",
+    "name": "Rapz Hair Studio",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16530,7 +16530,7 @@
   {
     "id": 1034,
     "slug": "red-s-barbershop",
-    "name": "Red's barbershop",
+    "name": "Red's Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16594,7 +16594,7 @@
   {
     "id": 1038,
     "slug": "retrocut-barbershop-pakuwon-mall-bekasi",
-    "name": "retrocut barbershop pakuwon mall bekasi",
+    "name": "Retrocut Barbershop Pakuwon Mall Bekasi",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16610,7 +16610,7 @@
   {
     "id": 1039,
     "slug": "rgx-s-barber-shop",
-    "name": "RGX'S Barber Shop",
+    "name": "Rgx's Barber Shop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16626,7 +16626,7 @@
   {
     "id": 1040,
     "slug": "rgxs-barber-shop-express",
-    "name": "RGX’S Barber Shop EXPRESS",
+    "name": "Rgx’s Barber Shop Express",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16642,7 +16642,7 @@
   {
     "id": 1041,
     "slug": "rgxs-barbershop-lemahnendeut",
-    "name": "RGX’S Barbershop Lemahnendeut",
+    "name": "Rgx’s Barbershop Lemahnendeut",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16658,7 +16658,7 @@
   {
     "id": 1042,
     "slug": "rids-barbershop-2",
-    "name": "RIDS BARBERSHOP 2",
+    "name": "Rids Barbershop 2",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16674,7 +16674,7 @@
   {
     "id": 1043,
     "slug": "rinyu-haircuts",
-    "name": "RINYU HAIRCUTS",
+    "name": "Rinyu Haircuts",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16690,7 +16690,7 @@
   {
     "id": 1044,
     "slug": "rj-barbershop-1",
-    "name": "RJ Barbershop",
+    "name": "Rj Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16706,7 +16706,7 @@
   {
     "id": 1045,
     "slug": "rock-n-roll-haircutting-makeover",
-    "name": "Rock n Roll Haircutting & Makeover",
+    "name": "Rock N Roll Haircutting & Makeover",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16818,7 +16818,7 @@
   {
     "id": 1052,
     "slug": "sae-316-barbershop",
-    "name": "SAE 316 Barbershop",
+    "name": "Sae 316 Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16850,7 +16850,7 @@
   {
     "id": 1054,
     "slug": "seabarber-cijagra-buahbatu",
-    "name": "SeaBarber - Cijagra, Buahbatu",
+    "name": "Seabarber - Cijagra, Buahbatu",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16866,7 +16866,7 @@
   {
     "id": 1055,
     "slug": "section-complement",
-    "name": "SECTION COMPLEMENT",
+    "name": "Section Complement",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16930,7 +16930,7 @@
   {
     "id": 1059,
     "slug": "shishi-barbershop",
-    "name": "SHISHI BARBERSHOP",
+    "name": "Shishi Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16946,7 +16946,7 @@
   {
     "id": 1060,
     "slug": "sidewalks-barber-and-shop",
-    "name": "SIDEWALKS BARBER AND SHOP",
+    "name": "Sidewalks Barber and Shop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -16994,7 +16994,7 @@
   {
     "id": 1063,
     "slug": "sir-iir",
-    "name": "SIR IIR",
+    "name": "Sir Iir",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17042,7 +17042,7 @@
   {
     "id": 1066,
     "slug": "solusi-hairstudio",
-    "name": "SOLUSI HAIRSTUDIO",
+    "name": "Solusi Hairstudio",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17058,7 +17058,7 @@
   {
     "id": 1067,
     "slug": "sora-barbershop",
-    "name": "SORA Barbershop",
+    "name": "Sora Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17074,7 +17074,7 @@
   {
     "id": 1068,
     "slug": "station-haircut-2",
-    "name": "STATION HAIRCUT 2",
+    "name": "Station Haircut 2",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17090,7 +17090,7 @@
   {
     "id": 1069,
     "slug": "stepway-barbershop",
-    "name": "Stepway barbershop",
+    "name": "Stepway Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17106,7 +17106,7 @@
   {
     "id": 1070,
     "slug": "stoix",
-    "name": "STOiX",
+    "name": "Stoix",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17138,7 +17138,7 @@
   {
     "id": 1072,
     "slug": "suma-barber",
-    "name": "SUMA Barber",
+    "name": "Suma Barber",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17186,7 +17186,7 @@
   {
     "id": 1075,
     "slug": "tampan-haircut-gegerkalong",
-    "name": "TAMPAN HAIRCUT GEGERKALONG",
+    "name": "Tampan Haircut Gegerkalong",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17234,7 +17234,7 @@
   {
     "id": 1078,
     "slug": "tempat-cukur-potong-rambut-barbershop-terdeka",
-    "name": "TEMPAT CUKUR POTONG RAMBUT BARBERSHOP TERDEKAT DI BANDUNG RocketZ Barber Shop Hair Cut Studio TERBAIK",
+    "name": "Tempat Cukur Potong Rambut Barbershop Terdekat di Bandung RocketZ Barber Shop Hair Cut Studio Terbaik",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17298,7 +17298,7 @@
   {
     "id": 1082,
     "slug": "the-bul-s-barbershop-mim",
-    "name": "The Bul's Barbershop MIM",
+    "name": "The Bul's Barbershop Mim",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17394,7 +17394,7 @@
   {
     "id": 1088,
     "slug": "the-kreens-barbershop",
-    "name": "The kreens barbershop",
+    "name": "The Kreens Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17442,7 +17442,7 @@
   {
     "id": 1091,
     "slug": "tremors-barbershop",
-    "name": "Tremors barbershop",
+    "name": "Tremors Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17458,7 +17458,7 @@
   {
     "id": 1092,
     "slug": "trian-s-barbershop",
-    "name": "TRIAN'S BARBERSHOP",
+    "name": "Trian's Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17474,7 +17474,7 @@
   {
     "id": 1093,
     "slug": "trijaya-barbershop",
-    "name": "TriJaya BarberShop",
+    "name": "Trijaya BarberShop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17506,7 +17506,7 @@
   {
     "id": 1095,
     "slug": "trixs-barber-cimahi",
-    "name": "TRIXS BARBER CIMAHI",
+    "name": "Trixs Barber Cimahi",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17522,7 +17522,7 @@
   {
     "id": 1096,
     "slug": "trp-barbershop",
-    "name": "TRP BARBERSHOP",
+    "name": "Trp Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17554,7 +17554,7 @@
   {
     "id": 1098,
     "slug": "two-brother-barbershop",
-    "name": "TWO BROTHER BARBERSHOP",
+    "name": "Two Brother Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17634,7 +17634,7 @@
   {
     "id": 1103,
     "slug": "uwa-ewok-barbershop",
-    "name": "UWA EWOK BARBERSHOP",
+    "name": "Uwa Ewok Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17650,7 +17650,7 @@
   {
     "id": 1104,
     "slug": "vax-wijaya-barbershop-mekarwangi",
-    "name": "VAX WIJAYA BARBERSHOP MEKARWANGI",
+    "name": "Vax Wijaya Barbershop Mekarwangi",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17666,7 +17666,7 @@
   {
     "id": 1105,
     "slug": "vax-wijaya-parahyangan",
-    "name": "VAX WIJAYA PARAHYANGAN",
+    "name": "Vax Wijaya Parahyangan",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17682,7 +17682,7 @@
   {
     "id": 1106,
     "slug": "vax-wijaya-spbu-dago",
-    "name": "VAX WIJAYA SPBU DAGO",
+    "name": "Vax Wijaya Spbu Dago",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17746,7 +17746,7 @@
   {
     "id": 1110,
     "slug": "vis-barber",
-    "name": "Vis barber",
+    "name": "Vis Barber",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17810,7 +17810,7 @@
   {
     "id": 1114,
     "slug": "x4-barbershop-2",
-    "name": "X4 barbershop 2",
+    "name": "X4 Barbershop 2",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17826,7 +17826,7 @@
   {
     "id": 1115,
     "slug": "xbre-barbershop",
-    "name": "XBre Barbershop",
+    "name": "Xbre Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17842,7 +17842,7 @@
   {
     "id": 1116,
     "slug": "yadi-barbershop-bima",
-    "name": "YADI BARBERSHOP BIMA",
+    "name": "Yadi Barbershop Bima",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17858,7 +17858,7 @@
   {
     "id": 1117,
     "slug": "yg-barbershop-your-grooming",
-    "name": "YG BARBERSHOP YOUR GROOMING",
+    "name": "Yg Barbershop Your Grooming",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17890,7 +17890,7 @@
   {
     "id": 1119,
     "slug": "yuuhin-barbershop",
-    "name": "Yuuhin barbershop",
+    "name": "Yuuhin Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17922,7 +17922,7 @@
   {
     "id": 1121,
     "slug": "zain-barbershop",
-    "name": "ZAIN BARBERSHOP",
+    "name": "Zain Barbershop",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17938,7 +17938,7 @@
   {
     "id": 1122,
     "slug": "zain-barbershop-cbg-cibiru",
-    "name": "Zain Barbershop (cbg Cibiru)",
+    "name": "Zain Barbershop (Cbg Cibiru)",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -17970,7 +17970,7 @@
   {
     "id": 1124,
     "slug": "zav-barbershop-hair-treatment-lombok",
-    "name": "Zav barbershop & hair treatment lombok",
+    "name": "Zav Barbershop & Hair Treatment Lombok",
     "service_type": "Tempat Cukur Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",
@@ -18034,7 +18034,7 @@
   {
     "id": 1128,
     "slug": "ade-barbershop",
-    "name": "ADE BARBERSHOP",
+    "name": "Ade Barbershop",
     "service_type": "Toko Peralatan Pangkas Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -18050,7 +18050,7 @@
   {
     "id": 1129,
     "slug": "trust-barbershop",
-    "name": "Trust barbershop",
+    "name": "Trust Barbershop",
     "service_type": "Toko Peralatan Pangkas Rambut",
     "city": "South Jakarta",
     "city_orig": "Jakarta Selatan",
@@ -18082,7 +18082,7 @@
   {
     "id": 1131,
     "slug": "barbershop-k-y",
-    "name": "BarberShop K&Y",
+    "name": "Barbershop K&Y",
     "service_type": "Toko Peralatan Pangkas Rambut",
     "city": "Bandung",
     "city_orig": "Bandung",

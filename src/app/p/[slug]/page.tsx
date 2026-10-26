@@ -1,6 +1,7 @@
 import { BarbershopApp } from "@/app/page";
 import { BarbershopProvider, BarbershopData } from "@/context/BarbershopContext";
 import barbershopsData from "@/data/barbershops.json";
+import { toTitleCase } from "@/utils/text";
 
 export async function generateStaticParams() {
   // Pre-render top 100 pitch leads
@@ -21,12 +22,13 @@ export async function generateMetadata({
   );
 
   if (shop) {
+    const formattedName = toTitleCase(shop.name);
     return {
-      title: `${shop.name} | Official Barbershop & Grooming Studio`,
-      description: `Official website & online WhatsApp reservations for ${shop.name} in ${shop.city_orig}. Rating: ⭐ ${shop.rating} (${shop.reviews} reviews). Address: ${shop.address}`,
+      title: `${formattedName} | Official Barbershop & Grooming Studio`,
+      description: `Official website & online WhatsApp reservations for ${formattedName} in ${shop.city_orig}. Rating: ⭐ ${shop.rating} (${shop.reviews} reviews). Address: ${shop.address}`,
       openGraph: {
-        title: `${shop.name} - Official Barbershop & Grooming Studio`,
-        description: `Experience classic haircutting, razor fades & beard trims at ${shop.name}. Book an appointment online.`,
+        title: `${formattedName} - Official Barbershop & Grooming Studio`,
+        description: `Experience classic haircutting, razor fades & beard trims at ${formattedName}. Book an appointment online.`,
         images: ["/assets/images/hero-light.jpg"],
       },
     };
@@ -60,12 +62,13 @@ export default async function LeadPitchPage({
       : cleanPhone;
 
     const defaultMyWa = "6285718203535";
+    const formattedName = toTitleCase(shop.name);
     const claimMsg = encodeURIComponent(
-      `Halo Mas, saya pemilik/manajemen dari *${shop.name}* (${shop.city_orig}). Saya sudah lihat preview websitenya di https://barbershop-web-demo.vercel.app/p/${shop.slug}. Saya tertarik untuk pasang website ini ke domain resmi kami.`
+      `Halo Mas, saya pemilik/manajemen dari *${formattedName}* (${shop.city_orig}). Saya sudah lihat preview websitenya di https://barbershop-web-demo.vercel.app/p/${shop.slug}. Saya tertarik untuk pasang website ini ke domain resmi kami.`
     );
 
     initialShop = {
-      name: shop.name,
+      name: formattedName,
       city: shop.city_orig === "Bandung" ? "Bandung" : "South Jakarta",
       cityOrig: shop.city_orig,
       rating: shop.rating,

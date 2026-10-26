@@ -20,11 +20,38 @@ def generate_slug(name, id_num):
         s = f'barber-{id_num}'
     return s[:45]
 
+def to_title_case(s):
+    if not s: return ''
+    parts = re.split(r'([\s\-–—/()&.,|]+)', s)
+    res = []
+    is_first = True
+    for p in parts:
+        if not p or re.match(r'^[\s\-–—/()&.,|]+$', p):
+            res.append(p)
+        elif is_first:
+            is_first = False
+            if re.match(r'^(i|ii|iii|iv|v|vi|vii|viii|ix|x|xi|xii)$', p.lower()):
+                res.append(p.upper())
+            else:
+                res.append(p.capitalize())
+        elif p.lower() in ['dan', 'di', 'ke', 'dari', 'yang', 'and', 'of', 'in', 'the', 'at', 'by', '&']:
+            res.append(p.lower())
+        elif re.match(r'^(i|ii|iii|iv|v|vi|vii|viii|ix|x|xi|xii)$', p.lower()):
+            res.append(p.upper())
+        elif p.isupper() and len(p) >= 2:
+            res.append(p.capitalize())
+        elif p.islower():
+            res.append(p.capitalize())
+        else:
+            res.append(p)
+    return ''.join(res)
+
 all_items = []
 used_slugs = set()
 
 for idx, row in df.iterrows():
-    name = str(row['Nama Usaha']).strip() if pd.notnull(row['Nama Usaha']) else ''
+    raw_name = str(row['Nama Usaha']).strip() if pd.notnull(row['Nama Usaha']) else ''
+    name = to_title_case(raw_name)
     if not name or name == 'nan':
         continue
     

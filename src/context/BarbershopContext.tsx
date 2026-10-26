@@ -4,6 +4,8 @@ import React, { createContext, useContext, useEffect, useState, Suspense } from 
 import { useSearchParams, useParams, usePathname } from "next/navigation";
 import barbershopsData from "@/data/barbershops.json";
 
+import { toTitleCase } from "@/utils/text";
+
 export interface BarbershopData {
   name: string;
   city: string;
@@ -96,7 +98,8 @@ export function BarbershopProvider({
       );
 
       const base = initialData || defaultShopData;
-      const resolvedName = nameParam || matched?.name || base.name;
+      const rawName = nameParam || matched?.name || base.name;
+      const resolvedName = toTitleCase(rawName);
       const resolvedCity = cityParam || matched?.city_orig || base.cityOrig;
       const resolvedRating = ratingParam || matched?.rating || base.rating;
       const resolvedReviews = reviewsParam || matched?.reviews || base.reviews;
