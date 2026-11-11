@@ -4,8 +4,11 @@ import barbershopsData from "@/data/barbershops.json";
 import { toTitleCase } from "@/utils/text";
 
 export async function generateStaticParams() {
-  // Pre-render top 100 pitch leads
-  return barbershopsData.slice(0, 100).map((b) => ({
+  // Pre-render pitch leads (Batch 1 & Batch 2) sorted by reviews & rating
+  const sorted = [...barbershopsData].sort(
+    (a, b) => b.reviews - a.reviews || (b.rating as number) - (a.rating as number)
+  );
+  return sorted.slice(0, 250).map((b) => ({
     slug: b.slug,
   }));
 }
